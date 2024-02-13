@@ -1,1 +1,3 @@
-https://raw.githubusercontent.com/obophenotype/brain_data_standards_ontologies/master/bdso-allen.owl
+https://github.com/ubyndr/blood_pipeline/blob/main/pbmc.owl
+http://purl.obolibrary.org/obo/cl/cl-base.owl
+https://purl.obolibrary.org/obo/go/go-base.owl
