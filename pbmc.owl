@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns="http://example.org/"
+   xmlns:obo="http://purl.obolibrary.org/obo/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/75c27532-503d-4e90-a528-31573ac365e8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>NK IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/86b2cb92-6e49-4304-82bc-29b8ee846a08"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/95a558a1-a619-4cba-b6f2-00cc9837b771"/>
+    <rdfs:label>NK IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/630ca0c7-afb7-4702-9686-c3e6da5f64cd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Plasma cells</ns:annotation_detailed_fullNames>
+    <ns:cell_type>plasma cell</ns:cell_type>
+    <rdfs:label>Plasma cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000784">
+    <rdfs:label>plasmacytoid dendritic cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0000451"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_2000095">
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0002246"/>
+    <rdfs:label>cord blood hematopoietic stem cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d58cbb49-8c0f-440a-b789-1fc3ca9d5cdd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Hematopoietic progenitors</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/a50ea997-2bd8-475a-9588-54ead30427b8"/>
+    <rdfs:label>Hematopoietic progenitors</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/194a03f5-caa5-4f4a-a3b6-3bce17db0a89">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD8 effector mem CD45RA+</ns:annotation_detailed_fullNames>
+    <ns:cell_type>effector memory CD8-positive, alpha-beta T cell, terminally differentiated</ns:cell_type>
+    <rdfs:label>T CD8 effector mem CD45RA+</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N58f512d348494d1aa21fb5df2de7333f">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000972"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/95a558a1-a619-4cba-b6f2-00cc9837b771">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Nbff5f7f60868431085e597ee0a714c25"/>
+    <ns:cell_type>natural killer cell</ns:cell_type>
+    <rdfs:label>natural killer cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/935bf93d-c3c8-4cac-990a-6803584b263a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Ndfffca6172d24fa7a2366b4d338238ff"/>
+    <ns:annotation_detailed_fullNames>pDC</ns:annotation_detailed_fullNames>
+    <ns:cell_type>plasmacytoid dendritic cell</ns:cell_type>
+    <rdfs:label>pDC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000972">
+    <rdfs:label>class switched memory B cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0000236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8eb3befe-eaf8-4e39-bb8b-55d189129bc0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Non-classical monocyte IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/e317804c-11c0-49a1-8cbf-fc4c61b146ec"/>
+    <rdfs:label>Non-classical monocyte IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9bd5f5a0-b182-43ab-a7a7-33e92aa3af22">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N26309b0caa6e41c29d99420a1012ebff"/>
+    <ns:cell_type>naive B cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/c9240e2f-2ca5-4eca-b665-a36b36be3c23"/>
+    <rdfs:label>naive B cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/62c75288-f0f2-4b04-83ed-96030f1d35fc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD4 naive IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/78008025-910f-4e83-9da0-bea01cf71eac"/>
+    <rdfs:label>T CD4 naive IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000938">
+    <rdfs:label>CD16-negative, CD56-bright natural killer cell, human</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0000623"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5e903979-1bff-481f-a3ba-d90bbc2add27">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Classical monocyte IL6+</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/ffef6772-553f-47de-bc14-e68fd841fda9"/>
+    <rdfs:label>Classical monocyte IL6+</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0001065">
+    <rdfs:label>innate lymphoid cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9c5d4f87-a742-4890-ad25-a9a7ebdcb876">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD8 CTL IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/a2b71938-fda7-448c-aa4a-dababa429186"/>
+    <rdfs:label>T CD8 CTL IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd7738818f4fd459d976c99dfe08c0353">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000980"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ff22cec0-5153-41fd-8312-9cba9465afcc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Hematopoietic progenitors IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/a50ea997-2bd8-475a-9588-54ead30427b8"/>
+    <rdfs:label>Hematopoietic progenitors IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_4030029">
+    <rdfs:label>blood lymphocyte</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_2000001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c9650329-5349-4d2c-98a4-82b4a1e512e8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Ne1a076eb2f674bcd96d932a7d79298f8"/>
+    <ns:cell_type>conventional dendritic cell</ns:cell_type>
+    <rdfs:label>conventional dendritic cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c9240e2f-2ca5-4eca-b665-a36b36be3c23">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>B</ns:annotation_broad>
+    <rdfs:label>B</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a2b71938-fda7-448c-aa4a-dababa429186">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>CD8-positive, alpha-beta cytotoxic T cell</ns:cell_type>
+    <rdfs:label>CD8-positive, alpha-beta cytotoxic T cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6f73f551-403e-428e-b027-16bcbdd19917">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>Platelets</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>Platelets</ns:annotation_detailed_fullNames>
+    <ns:cell_type>platelet</ns:cell_type>
+    <rdfs:label>Platelets</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/28a57fcf-897c-4670-8902-4964e78f3294">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Nb7b7a7d9549f406fb712797a792c9bd8"/>
+    <ns:annotation_detailed_fullNames>NK CD56 bright</ns:annotation_detailed_fullNames>
+    <ns:cell_type>CD16-negative, CD56-bright natural killer cell, human</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/86b2cb92-6e49-4304-82bc-29b8ee846a08"/>
+    <rdfs:label>NK CD56 bright</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7feee562-8476-430f-9a8a-f7eaca5fe880">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD4 helper</ns:annotation_detailed_fullNames>
+    <ns:cell_type>CD4-positive helper T cell</ns:cell_type>
+    <rdfs:label>T CD4 helper</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N855b7f61e9bc449aac61a305c680b78d">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000451"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b558ebc3-08ac-4f4b-8417-c0a1b847e8fa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>RBC</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>Red blood cells</ns:annotation_detailed_fullNames>
+    <ns:cell_type>erythrocyte</ns:cell_type>
+    <rdfs:label>Red blood cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8a412a34-f62c-4b1c-a03c-e7cc22a1d440">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD8 central mem</ns:annotation_detailed_fullNames>
+    <ns:cell_type>central memory CD8-positive, alpha-beta T cell</ns:cell_type>
+    <rdfs:label>T CD8 central mem</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000990">
+    <rdfs:label>conventional dendritic cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0000451"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002473">
+    <rdfs:label>composed primarily of</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ef69bcca-ff0c-4981-8b5d-dd40031831c2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Classical monocyte</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/ffef6772-553f-47de-bc14-e68fd841fda9"/>
+    <rdfs:label>Classical monocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N26309b0caa6e41c29d99420a1012ebff">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000788"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a50ea997-2bd8-475a-9588-54ead30427b8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>HPC</ns:annotation_broad>
+    <ns:cell_type>hematopoietic precursor cell</ns:cell_type>
+    <rdfs:label>HPC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/82267d06-4459-4f6d-85b7-1c5103712903">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>B naive</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/9bd5f5a0-b182-43ab-a7a7-33e92aa3af22"/>
+    <rdfs:label>B naive</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000623">
+    <rdfs:label>natural killer cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0001065"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4387193b-a18d-4623-8275-6470eff20d95">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Ncff2319a057f4808adabefa542b21a7d"/>
+    <ns:annotation_broad>ILC</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>ILC</ns:annotation_detailed_fullNames>
+    <ns:cell_type>innate lymphoid cell</ns:cell_type>
+    <rdfs:label>ILC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0002246">
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0008001"/>
+    <rdfs:label>peripheral blood stem cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/20f720f6-2672-450f-a065-9e113212d9ef">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N58f512d348494d1aa21fb5df2de7333f"/>
+    <ns:annotation_detailed_fullNames>B switched mem</ns:annotation_detailed_fullNames>
+    <ns:cell_type>class switched memory B cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/c9240e2f-2ca5-4eca-b665-a36b36be3c23"/>
+    <rdfs:label>B switched mem</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/85f7d673-dc88-42f1-84cf-48e7bc82895a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD4 naive</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/78008025-910f-4e83-9da0-bea01cf71eac"/>
+    <rdfs:label>T CD4 naive</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/500a99d6-d17e-44b7-9195-677c1fbc5e70">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Nb5c3fe5ac5134c55833c8b504ba94923"/>
+    <ns:annotation_detailed_fullNames>B invariant</ns:annotation_detailed_fullNames>
+    <ns:cell_type>B cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/c9240e2f-2ca5-4eca-b665-a36b36be3c23"/>
+    <rdfs:label>B invariant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/86b2cb92-6e49-4304-82bc-29b8ee846a08">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>NK</ns:annotation_broad>
+    <rdfs:label>NK</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9cdd3e72-2ccd-4bc3-9fee-23e92014fac1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Non-classical monocyte</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/e317804c-11c0-49a1-8cbf-fc4c61b146ec"/>
+    <rdfs:label>Non-classical monocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0a0605e0-23ce-418d-907a-fb770a0a199b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Nd7738818f4fd459d976c99dfe08c0353"/>
+    <ns:annotation_detailed_fullNames>Plasmablasts</ns:annotation_detailed_fullNames>
+    <ns:cell_type>plasmablast</ns:cell_type>
+    <rdfs:label>Plasmablasts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncff2319a057f4808adabefa542b21a7d">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0001065"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2f14bcec-5a2d-4f44-ba27-a53ab9a25fab">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD8 CTL</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/a2b71938-fda7-448c-aa4a-dababa429186"/>
+    <rdfs:label>T CD8 CTL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d8061d3a-e1e0-47cd-9d62-bff2911dc97b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>cDC1</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/c9650329-5349-4d2c-98a4-82b4a1e512e8"/>
+    <rdfs:label>cDC1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9cbca3b9-aaf5-4cfa-9a2b-d45876057a97">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD8 effector mem</ns:annotation_detailed_fullNames>
+    <ns:cell_type>effector memory CD8-positive, alpha-beta T cell</ns:cell_type>
+    <rdfs:label>T CD8 effector mem</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb7b7a7d9549f406fb712797a792c9bd8">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000938"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ffef6772-553f-47de-bc14-e68fd841fda9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>classical monocyte</ns:cell_type>
+    <rdfs:label>classical monocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndfffca6172d24fa7a2366b4d338238ff">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000784"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3718c5fe-0057-4708-910a-446fa36b35cc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>T reg</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>T regulatory</ns:annotation_detailed_fullNames>
+    <ns:cell_type>regulatory T cell</ns:cell_type>
+    <rdfs:label>T regulatory</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/52cb7541-0a0c-45ec-946a-41a271cd1484">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD8 naive</ns:annotation_detailed_fullNames>
+    <ns:cell_type>naive thymus-derived CD8-positive, alpha-beta T cell</ns:cell_type>
+    <rdfs:label>T CD8 naive</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/103e4d7a-9565-45e1-b9e2-2094b32869dc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>T g/d</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>T gamma/delta</ns:annotation_detailed_fullNames>
+    <ns:cell_type>gamma-delta T cell</ns:cell_type>
+    <rdfs:label>T gamma/delta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_4030030">
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_4030029"/>
+    <rdfs:label>peripheral blood lymphocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ab964898-4293-47eb-be7a-fefa98c97ae7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>Cycling</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>Cycling</ns:annotation_detailed_fullNames>
+    <ns:cell_type>animal cell</ns:cell_type>
+    <rdfs:label>Cycling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000980">
+    <rdfs:label>plasmablast</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0000236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/970f8f69-28d7-4593-b05b-682cab4b15f9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>MAIT</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>MAIT</ns:annotation_detailed_fullNames>
+    <ns:cell_type>mucosal invariant T cell</ns:cell_type>
+    <rdfs:label>MAIT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/24eb721f-7078-466e-9760-7285f1b31e3d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>B non-switched mem IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/c9240e2f-2ca5-4eca-b665-a36b36be3c23"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/95a558a1-a619-4cba-b6f2-00cc9837b771"/>
+    <rdfs:label>B non-switched mem IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3a97fa49-f950-44e6-8317-9a9a60a49d02">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Non-classical monocyte complement+</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/e317804c-11c0-49a1-8cbf-fc4c61b146ec"/>
+    <rdfs:label>Non-classical monocyte complement+</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/feeb9c2a-4e73-4e8c-88b1-2c202a73feac">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>NKT</ns:annotation_detailed_fullNames>
+    <ns:cell_type>mature NK T cell</ns:cell_type>
+    <rdfs:label>NKT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c2d81062-9bcd-451f-8268-5c186f345976">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>cDC2</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/c9650329-5349-4d2c-98a4-82b4a1e512e8"/>
+    <rdfs:label>cDC2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/737ba84a-2786-4fe6-acdf-465b72cf47f3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_broad>Baso/Eos</ns:annotation_broad>
+    <ns:annotation_detailed_fullNames>Basophils &amp; Eosinophils</ns:annotation_detailed_fullNames>
+    <ns:cell_type>granulocyte</ns:cell_type>
+    <rdfs:label>Basophils &amp; Eosinophils</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/PCL_0010001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>cell cluster</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0015003">
+    <rdfs:label>subcluster of</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000451">
+    <rdfs:label>dendritic cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e317804c-11c0-49a1-8cbf-fc4c61b146ec">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>non-classical monocyte</ns:cell_type>
+    <rdfs:label>non-classical monocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000236">
+    <rdfs:label>B cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6f2ae234-a17d-4c79-a73a-7703a13a0c28">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>T CD4 CTL</ns:annotation_detailed_fullNames>
+    <ns:cell_type>CD4-positive, alpha-beta cytotoxic T cell</ns:cell_type>
+    <rdfs:label>T CD4 CTL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bbdf0ba6-671e-4a3f-825a-b26cafde0230">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N855b7f61e9bc449aac61a305c680b78d"/>
+    <ns:annotation_detailed_fullNames>AS-DC</ns:annotation_detailed_fullNames>
+    <ns:cell_type>dendritic cell</ns:cell_type>
+    <rdfs:label>AS-DC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0000788">
+    <rdfs:label>naive B cell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CL_0000236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4ae2df32-1329-4b3f-80d9-38173ba06626">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>Classical monocyte IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/ffef6772-553f-47de-bc14-e68fd841fda9"/>
+    <rdfs:label>Classical monocyte IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d826f20c-274a-4888-88bb-e7df6b1dad7b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>NK</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/86b2cb92-6e49-4304-82bc-29b8ee846a08"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/95a558a1-a619-4cba-b6f2-00cc9837b771"/>
+    <rdfs:label>NK</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb5c3fe5ac5134c55833c8b504ba94923">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6fd5548f-03d7-4c59-a66e-e5236fd55927">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>B non-switched mem</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/c9240e2f-2ca5-4eca-b665-a36b36be3c23"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/95a558a1-a619-4cba-b6f2-00cc9837b771"/>
+    <rdfs:label>B non-switched mem</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne1a076eb2f674bcd96d932a7d79298f8">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000990"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_2000001">
+    <rdfs:label>peripheral blood mononuclear cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a764b93c-4847-44ef-b0d8-e03affbd6497">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:annotation_detailed_fullNames>B naive IFN stim</ns:annotation_detailed_fullNames>
+    <obo:RO_0015003 rdf:resource="http://example.org/9bd5f5a0-b182-43ab-a7a7-33e92aa3af22"/>
+    <rdfs:label>B naive IFN stim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/CL_0008001">
+    <rdfs:label>hematopoietic precursor cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbff5f7f60868431085e597ee0a714c25">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_0000623"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/78008025-910f-4e83-9da0-bea01cf71eac">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>naive thymus-derived CD4-positive, alpha-beta T cell</ns:cell_type>
+    <rdfs:label>naive thymus-derived CD4-positive, alpha-beta T cell</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
