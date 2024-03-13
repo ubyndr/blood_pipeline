@@ -1,0 +1,2214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns="http://example.org/"
+   xmlns:obo="http://purl.obolibrary.org/obo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/9b2d0472-8c73-4028-94bc-b100d8e25cfa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Chandelier_1</ns:CrossArea_cluster>
+    <ns:CrossArea_subclass>Chandelier</ns:CrossArea_subclass>
+    <ns:cell_type>chandelier pvalb GABAergic cortical interneuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Chandelier_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/39c847c9-4bb9-404a-86e3-4aac05c9a8a1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_25</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_25</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/eac54e17-9bd6-481d-8382-d5cf0c90b09d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6 IT Car3_1</ns:WithinArea_cluster>
+    <ns:WithinArea_subclass>L6 IT Car3</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L6 IT Car3_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4b55a08c-8b36-4b77-a3ea-97b25c2c2ca1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b4b53ec1-d527-4d3e-8869-3551892c9095">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6 CT_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/3685a64d-4561-46de-b8d5-3d8b83a2bfb4"/>
+    <rdfs:label>L6 CT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cb37ec32-ec1f-4162-99a0-cc3657843dc4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f32dfba1-398c-4989-9bb1-5eb3ecdf4250">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2563dc80-cd5c-4c7a-a8e8-46fad4038524">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_18</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Vip</ns:CrossArea_subclass>
+    <ns:cell_type>vip GABAergic cortical interneuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Vip</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d46c3bcc-3e1c-45b4-b8e2-3f8221a2c654">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_31</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c9f8d371-eab3-4d80-86b6-4035348541a0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0fdcc9e8-7818-45a6-8256-fbae7ac92d9d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_19</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9996b4df-91d8-4a89-aecd-3ad27998526f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_23</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_23</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ac175dca-8334-45a7-b6da-bf47775c04fc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <rdfs:label>Pvalb_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8f493b59-59d6-4a91-872e-6d434541a579">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pax6_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/064b97fc-182c-47ae-aeff-0fac74976505"/>
+    <rdfs:label>Pax6_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Pvalb</ns:CrossArea_subclass>
+    <ns:cell_type>pvalb GABAergic cortical interneuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Pvalb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6fd76bcc-e7f0-47e3-9e4f-45fb8a3c1916">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L2/3 IT_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a8b45143-0715-444d-8c91-0c66a5b8add9"/>
+    <rdfs:label>L2/3 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/71d91dc5-fc2f-4bed-9f32-7b58638a325c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Pax6</ns:CrossArea_subclass>
+    <ns:cell_type>caudal ganglionic eminence derived GABAergic cortical interneuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Pax6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ce1d16e7-7494-4321-b1ee-36ee038a42d9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sncg_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a675dd90-380c-4a0d-9c80-50749795ef61">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6b_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/746051f8-55de-476a-8012-ffd2874805ef"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/77687214-fa21-4318-971e-c6e5ddea33c1"/>
+    <rdfs:label>L6b_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7915b957-125e-4ce0-9ca6-7e8275d5edf6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_18</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/90c5da38-6121-4592-8471-edbbae16b871">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Source>lein_10x_all_layers</ns:Source>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>lein_10x_all_layers</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e9661976-f763-4c92-b5ad-c7e8bc3629a8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_30</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_30</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ec4bae52-75a5-462f-a25e-c7df6bf47f47">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_7</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/58d3bba9-ebba-4c9f-95ef-e238a26d4967">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6 IT Car3_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a1a27be0-83e8-4fcb-8ab9-ab8b97633d74"/>
+    <rdfs:label>L6 IT Car3_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9e2f1341-738b-4536-842a-fb937488a5d9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 ET_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e1b5319-beff-43ee-b82f-f4a8b8b6a4ea"/>
+    <rdfs:label>L5 ET_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3685a64d-4561-46de-b8d5-3d8b83a2bfb4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L6 CT</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/013b130c-00c4-4296-b670-528a5e08387a"/>
+    <rdfs:label>L6 CT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/745d4add-53b1-4347-a74a-331460fb56a5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Endo_1</ns:WithinArea_cluster>
+    <ns:WithinArea_subclass>Endo</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/fac4198a-eeac-4ab6-9262-b050f6b11999"/>
+    <rdfs:label>Endo_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/19c5f3fe-4e97-4f77-87c0-71af4e1fa9dc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Astro_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8"/>
+    <rdfs:label>Astro_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8d014764-c4bb-40e5-b3ee-043d376ca945">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pax6_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/71d91dc5-fc2f-4bed-9f32-7b58638a325c"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/064b97fc-182c-47ae-aeff-0fac74976505"/>
+    <rdfs:label>Pax6_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/acf9e1d4-2df2-457c-97b9-8254df0493c1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_7</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bef3c6b9-ea5b-4ec3-850c-bc6d85e3d6a4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_30</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_30</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6a736853-b2cf-487c-9ce4-e0433cadd826">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6 IT_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/9662f81d-ad50-41c7-a072-b84d3747986c"/>
+    <rdfs:label>L6 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c7bb915a-c5ec-460b-bd9b-f8311f8c1d20">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_22</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_22</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ff89974d-3f09-4863-b57e-8746a50c4357">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_9</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/69d6cb74-7d21-4453-a97f-d131e0b442ab">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L2/3 IT_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220"/>
+    <rdfs:label>L2/3 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3b730d94-6d05-43f9-b1b5-b25caa9c264c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_25</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_25</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1f11c9d0-f0af-4aad-ac30-f739e085dd63">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_26</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b5ef306a-d416-4e67-ad25-c202895e5f84">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5 IT_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ad83290a-f56e-4316-8872-033cabfecc71"/>
+    <rdfs:label>L5 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2ba2c308-d0ef-4c8e-a8bc-e33ca9afce65">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Chandelier_1</ns:WithinArea_cluster>
+    <ns:WithinArea_subclass>Chandelier</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Chandelier_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/17929091-c03e-45ba-9a9e-ec11aa4b80b6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_24</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_24</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3ddbf975-33e1-431f-a141-bc3062744135">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_25</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_25</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ac036663-4aa9-4b2e-a8d8-a90311638eca">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L5 IT</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L5 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/393cd96c-485e-42bd-a2ab-9f2ff300b0fb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <rdfs:label>Lamp5_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8bae6ee3-1e12-4967-a105-825ad2e50885">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L4 IT_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae45b55c-5e91-4c4b-94e3-96a3765375d5"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/7b88f26c-c4f1-4bce-8ce9-72659c04024c"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/e7f627b5-51ec-40a3-a941-db301c746ceb"/>
+    <rdfs:label>L4 IT_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/abaf0e20-ed75-4946-b379-eea24275af15">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6 CT_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/9addbf53-c341-480a-9449-b2ea8948d2a2"/>
+    <rdfs:label>L6 CT_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/354a0cc2-618e-42eb-a109-23b0a6f5d154">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_14</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_14</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/37526da7-8309-49e5-a57f-010c93bcca88">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_26</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/87e76978-5618-4a58-8c5c-4bd71ce4f38f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_11</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2250d20c-d296-4194-bea5-aa562f309412">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <rdfs:label>Sncg_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4280ee69-d968-4603-be8a-bde119e4b11c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Oligo_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4d7063ae-fe8f-46b6-b2c2-dd09baf6ed12"/>
+    <rdfs:label>Oligo_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/154dcdd5-cdd4-4354-9259-cca68593c937">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_32</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_32</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/463a1e43-2c4f-49aa-a123-0c122ed86d75">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_8</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/53a9bd05-7f18-43d7-be65-ebad757d62e7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Endo_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/fac4198a-eeac-4ab6-9262-b050f6b11999"/>
+    <rdfs:label>Endo_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a001e54d-62fb-48f4-a79c-cf5eb078b69f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 IT_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ac036663-4aa9-4b2e-a8d8-a90311638eca"/>
+    <rdfs:label>L5 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/25d9b28d-21c7-4386-a429-e7dd95e02da9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6259ea89-7388-4ee8-92e7-1f9e0d903272">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_24</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_24</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7b88f26c-c4f1-4bce-8ce9-72659c04024c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Layer>L5</ns:Layer>
+    <ns:Source>lein_10x_layer5_only</ns:Source>
+    <rdfs:label>L5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9a7ac575-027c-482d-b6e7-b37411551608">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Oligo_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4d7063ae-fe8f-46b6-b2c2-dd09baf6ed12"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>Oligo_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ed518a35-77db-407b-9c5a-8a4a5fdb8306">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pax6_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/71d91dc5-fc2f-4bed-9f32-7b58638a325c"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/064b97fc-182c-47ae-aeff-0fac74976505"/>
+    <rdfs:label>Pax6_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b8dfdec2-7569-41ca-b2cb-4bc543ec2ffe">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L5/6 NP</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/013b130c-00c4-4296-b670-528a5e08387a"/>
+    <rdfs:label>L5/6 NP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/61c22d7a-c2e6-4fca-8ace-613da6e6ddd8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_25</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_25</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e9879c92-96f2-4954-a6ba-dcfec05946e8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_8</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3409cd6d-fae3-4e35-8423-3b4d67301094">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_9</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b725e082-b5db-4c84-a737-ce88ccc6c149">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sncg_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d4733095-3f77-49a7-ac7e-58cbcc3c4611">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sncg_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/72345d17-c633-4f06-98dd-0b4aea440165">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_10</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b9cbe8fc-46dd-497e-900f-b36da7bd03a5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_27</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_27</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/24028c90-285b-45a0-8fb8-a94422135790">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e050d020-2c5f-4810-adbd-8c7b832deb66">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_6</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fbade641-61c6-4ccb-aefa-4fbe362d24ce">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_18</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/145c3f5d-1fd0-4933-a6cd-6edb44bcde6e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_19</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6954b5d2-744f-47c2-94dc-e5a83e4cd985">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_20</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_20</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6ecf5dad-fa1b-449c-a5d0-039adcbf7da4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6b_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/28cd309b-771e-4165-a953-331f69eb4ed5"/>
+    <rdfs:label>L6b_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f47dc90e-0dbc-4e87-9dc3-563ed0257011">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst Chodl_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/907335e1-9bd0-4894-a712-8dad0a210b29"/>
+    <rdfs:label>Sst Chodl_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9471420b-82ff-4b3f-87a8-98374b39c91c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_21</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_21</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c1faa7d8-85a9-4a58-9df7-dcf5a2b40fcb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_28</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_28</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/78c59199-2022-4f39-90af-729cb300ace8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_19</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/465ed48d-afab-4725-be6d-6db802a731a6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_8</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5d4ebb02-a846-4a11-8d19-232f12e06e30">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>OPC_1</ns:WithinArea_cluster>
+    <ns:WithinArea_subclass>OPC</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/6aedd242-8626-4ef8-bb6b-48dcb401894a"/>
+    <rdfs:label>OPC_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2260849b-59dd-4998-b4c8-aa9d61051652">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_37</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_37</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/dec52456-cd0d-4fed-bb97-1408844cf2e4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7c448882-4ce6-4f3e-8bcf-d64e6643519b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_11</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/67c941fe-2a80-45d2-8fb0-000cee9bd2a6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_22</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_22</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f1b0219c-cd6e-43fb-bd01-2988ecbacbba">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5 IT_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ad83290a-f56e-4316-8872-033cabfecc71"/>
+    <rdfs:label>L5 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2d42305a-4928-4c40-800a-7abdae05963d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L2/3 IT_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220"/>
+    <rdfs:label>L2/3 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/da00d5a3-298c-4661-9ec9-5f931a6ea077">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5_7</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Sncg</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Sncg</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b903aedb-b7f2-4434-aaca-b76861ab0e1e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5/6 NP_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715"/>
+    <rdfs:label>L5/6 NP_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L5/6 NP</ns:CrossArea_subclass>
+    <ns:cell_type>near-projecting glutamatergic cortical neuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/b8dfdec2-7569-41ca-b2cb-4bc543ec2ffe"/>
+    <rdfs:label>L5/6 NP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f57d1349-08a6-439a-9b43-ffeeebde9bc1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6 IT Car3_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a1a27be0-83e8-4fcb-8ab9-ab8b97633d74"/>
+    <rdfs:label>L6 IT Car3_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7eb26ab1-71ec-4549-a88d-9dbcb962b737">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5 Lhx6_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/d9e7063d-2f86-4a4c-a4c7-a59e1dcfd9aa"/>
+    <rdfs:label>Lamp5 Lhx6_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0dbfaa3d-a545-4b8b-b33b-e5005a3227e4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_24</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_24</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6080f357-de10-449e-a72a-48771b5ccbc7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Astro_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8"/>
+    <rdfs:label>Astro_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e5c56d94-6454-428d-9fb9-4fbdf7712451">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1b12ee2d-b354-43bd-85c5-75cd0f91edfe">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_13</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/90001434-2e98-4f1f-8388-f6c33ac75075">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Astro_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8"/>
+    <rdfs:label>Astro_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/96f8e4ac-6c8c-4e6a-80a5-c7b97b9d18ad">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <rdfs:label>Pvalb_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Vip</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Vip</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c1c05aaa-3b3e-4095-bf14-0a8f6171268a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_29</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_29</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/35ce6bf9-b0c9-4b55-a2a8-303a00ff1c1b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_9</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Layer>All</ns:Layer>
+    <rdfs:label>All</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bb4cbe94-6e20-4ead-b796-8d6523ab37d4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>sst GABAergic cortical interneuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>sst GABAergic cortical interneuron</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/084cddfb-ab8d-4913-8dcb-a37ceb548082">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_16</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_16</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9496f232-c9bd-46ca-99eb-f68514fdafcb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/80a45e1d-dfed-437a-84fd-0782098eb650">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_9</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/305e8550-3713-4ac8-a8e6-5b882f87516c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0b825150-3582-4f3e-bbbd-7cf2d558862f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sncg_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/89ae3f15-1996-4836-a011-06232eee56f0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L4 IT_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae45b55c-5e91-4c4b-94e3-96a3765375d5"/>
+    <rdfs:label>L4 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f52acace-1a63-468e-b43c-3008626975ef">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pax6_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/71d91dc5-fc2f-4bed-9f32-7b58638a325c"/>
+    <rdfs:label>Pax6_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c465a286-a94e-40c1-a6b0-3c8e52540a24">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_23</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_23</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9a1e8181-17c9-46f4-910e-ab8f8f446ffc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d67a678a-9d63-40ab-8e35-901a3055f4b9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ba09e810-078d-4213-983c-6c9f8982fe62">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Astro_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17"/>
+    <rdfs:label>Astro_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/dee5fcce-9715-466b-bedd-b273d1b3eee7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>VLMC</ns:CrossArea_subclass>
+    <ns:cell_type>vascular leptomeningeal cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/4773e297-3266-4e21-b6aa-939199b9db70"/>
+    <rdfs:label>VLMC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e8a1ce1a-d912-405c-a3fc-2582ce3395f5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_6</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/48c4ba9f-0e01-4de1-9254-8ba39693c4fa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6d88209c-9e8c-4f1e-8701-53d7b4a8d7fc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_13</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Class>non-neuronal</ns:Class>
+    <rdfs:label>non-neuronal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2e7aaf33-4e40-4746-a463-c5b20b78efb2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6b_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/77687214-fa21-4318-971e-c6e5ddea33c1"/>
+    <rdfs:label>L6b_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/310284be-ac30-4e3d-a808-a925ba79d64c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6 CT_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/9addbf53-c341-480a-9449-b2ea8948d2a2"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/3685a64d-4561-46de-b8d5-3d8b83a2bfb4"/>
+    <rdfs:label>L6 CT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a98016c3-8dc0-4f85-9589-3ce738998a86">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <rdfs:label>Sncg_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/911ba4be-9c8c-413d-b51f-fb44f57c588d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6 IT_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/c8b660e4-590e-4be5-8a17-d8ae059a88cc"/>
+    <rdfs:label>L6 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0646b118-f13f-4a0c-8bb8-47714b89561d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_8</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1d427d69-2c76-4f45-bb1d-fadcd3e52f50">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst Chodl_1</ns:CrossArea_cluster>
+    <ns:CrossArea_subclass>Sst Chodl</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/bb4cbe94-6e20-4ead-b796-8d6523ab37d4"/>
+    <rdfs:label>Sst Chodl_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8b964075-2e70-41b2-8137-dd725befe662">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a5193858-4930-4b7f-a62e-3c17ef3fa001">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fd928382-3cff-4cd4-a886-91e312e8bee8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 IT_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ac036663-4aa9-4b2e-a8d8-a90311638eca"/>
+    <rdfs:label>L5 IT_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/746051f8-55de-476a-8012-ffd2874805ef">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L6b</ns:CrossArea_subclass>
+    <ns:cell_type>L6b glutamatergic cortical neuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/013b130c-00c4-4296-b670-528a5e08387a"/>
+    <rdfs:label>L6b</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/05950c95-46c1-4c3d-9a63-085f6d28f9cb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Astro_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8"/>
+    <rdfs:label>Astro_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7f505217-f43c-4094-af67-c9208aad5d8a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_7</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ea4d0436-1397-4a39-b760-ee023b366f4d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_28</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_28</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6d724004-1306-4418-9dfa-a8efd8938fdb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5/6 NP_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715"/>
+    <rdfs:label>L5/6 NP_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/284f6960-9b1f-4570-96b8-9dfed4ce9030">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L2/3 IT_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a8b45143-0715-444d-8c91-0c66a5b8add9"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220"/>
+    <rdfs:label>L2/3 IT_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/75747363-7ab1-4714-923c-cdd4a35d4237">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_27</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_27</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7569eb3c-aebe-43db-9121-d1d94e04cd72">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4773e297-3266-4e21-b6aa-939199b9db70">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>VLMC_1</ns:WithinArea_cluster>
+    <ns:WithinArea_subclass>VLMC</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>VLMC_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/eb19bdf8-ea5b-4038-bc03-3d04327b0960">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0b1252f1-2c75-4030-9a45-129846a13423">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_7</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/59e5a9ad-21db-431f-905a-01638b6f1278">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L4 IT_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae45b55c-5e91-4c4b-94e3-96a3765375d5"/>
+    <rdfs:label>L4 IT_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/84c14fab-d91a-44e0-8818-9f6e11f735bd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_26</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fc3ef48b-d2f1-456d-a3a4-4da916113b92">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6b_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/77687214-fa21-4318-971e-c6e5ddea33c1"/>
+    <rdfs:label>L6b_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b54e9eda-27e7-47ec-8ee5-dbee70f5adad">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6b_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a675dd90-380c-4a0d-9c80-50749795ef61"/>
+    <rdfs:label>L6b_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/81a8a36f-dcfb-4f3c-ab69-2f88eebbe36f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_23</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_23</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5c15b5f0-47d0-4fa7-bff1-a0a8fd9f5d73">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sncg_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4cf6b518-53f9-420a-8085-5f28eb9fce1d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst Chodl_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1d427d69-2c76-4f45-bb1d-fadcd3e52f50"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/907335e1-9bd0-4894-a712-8dad0a210b29"/>
+    <rdfs:label>Sst Chodl_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/907335e1-9bd0-4894-a712-8dad0a210b29">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Sst Chodl</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/bb4cbe94-6e20-4ead-b796-8d6523ab37d4"/>
+    <rdfs:label>Sst Chodl</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/780ead9c-4f57-4bae-bfb3-da86bc587d5a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5_6</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0015003">
+    <rdfs:label>subcluster of</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/89f0163c-bfb7-47a6-8ce9-ca37dfc9bfc8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pax6_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/71d91dc5-fc2f-4bed-9f32-7b58638a325c"/>
+    <rdfs:label>Pax6_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f77a8bcf-4a7e-40fe-8df0-892fca761fc4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Astro_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8"/>
+    <rdfs:label>Astro_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/744590fc-6fb8-43ab-9bbc-666df8c17d2f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6 IT_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/c8b660e4-590e-4be5-8a17-d8ae059a88cc"/>
+    <rdfs:label>L6 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b6937514-450a-4089-b8ed-2bc80011c8c7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_27</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_27</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a0c2bf33-ef1a-439a-a990-10dd9a7d9c3f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_21</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_21</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a2f0d6ed-17d0-4856-af45-adf677beb100">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Micro/PVM_1</ns:WithinArea_cluster>
+    <ns:WithinArea_subclass>Micro/PVM</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>Micro/PVM_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/122fe98a-3118-4bd2-b84c-e330bf5bc9b4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_12</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8ca5adec-5482-4edb-8a49-8cfc0019d2cb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6 CT_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/3685a64d-4561-46de-b8d5-3d8b83a2bfb4"/>
+    <rdfs:label>L6 CT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/80b88853-98e0-49ea-a338-b4eb3a3f5531">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5 ET_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e1b5319-beff-43ee-b82f-f4a8b8b6a4ea"/>
+    <rdfs:label>L5 ET_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b66e1328-6a5d-4b5e-a540-1b13b7523452">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_29</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_29</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4ac35cf0-01dd-42e3-a6e2-585aa8bde696">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_10</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Astro</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>Astro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Astro</ns:CrossArea_subclass>
+    <ns:cell_type>astrocyte of the cerebral cortex</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>Astro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7254f0ba-4755-4f69-b56f-1121d6390ebf">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 IT_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ac036663-4aa9-4b2e-a8d8-a90311638eca"/>
+    <rdfs:label>L5 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d7ec82c1-5f16-4c4d-96aa-8d03fff4a502">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5/6 NP_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715"/>
+    <rdfs:label>L5/6 NP_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6f6b4fd2-0161-4489-a28a-70d587a72f7a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_6</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e7f627b5-51ec-40a3-a941-db301c746ceb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L4 IT_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/62fa218d-92d2-491f-89b1-0ead167dc83b"/>
+    <rdfs:label>L4 IT_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/22682472-7f2a-4dbe-83be-d2909902bbb1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_14</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_14</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/980d31e6-04b3-447c-899d-c9bfd6110601">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f15e69ab-a038-4760-a2af-d3951d82396d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <rdfs:label>Lamp5_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/28cd309b-771e-4165-a953-331f69eb4ed5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6b_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/746051f8-55de-476a-8012-ffd2874805ef"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/77687214-fa21-4318-971e-c6e5ddea33c1"/>
+    <rdfs:label>L6b_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6aedd242-8626-4ef8-bb6b-48dcb401894a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>OPC_1</ns:CrossArea_cluster>
+    <ns:CrossArea_subclass>OPC</ns:CrossArea_subclass>
+    <ns:cell_type>oligodendrocyte precursor cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>OPC_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/98c7ed0b-d2f1-4724-8f28-f5b754369a1e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_13</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ffe62938-1e5f-416a-94d9-6539cf7be2b7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pax6_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/064b97fc-182c-47ae-aeff-0fac74976505"/>
+    <rdfs:label>Pax6_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/27cd99dc-d984-45ce-a1ae-5aa3b30104f1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_8</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fac4198a-eeac-4ab6-9262-b050f6b11999">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Endo</ns:CrossArea_subclass>
+    <ns:cell_type>cerebral cortex endothelial cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>Endo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/99e79572-924d-4dba-9639-a777b1fc3526">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6b_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/746051f8-55de-476a-8012-ffd2874805ef"/>
+    <rdfs:label>L6b_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a1a27be0-83e8-4fcb-8ab9-ab8b97633d74">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L6 IT Car3</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L6 IT Car3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/80157be1-2b13-4d59-89b9-631821ba92fc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_35</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_35</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d8ad6db8-3d62-492a-a840-f01f751d0a4a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_31</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/be7fc4e5-5860-4f52-bb12-e57be08edce4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5/6 NP_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>L5/6 NP_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9308bafa-0e39-4a8b-a579-5e44a010e50d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_17</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/82eb56fe-e216-45e9-ac58-7312ccc3c31e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L2/3 IT_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a8b45143-0715-444d-8c91-0c66a5b8add9"/>
+    <rdfs:label>L2/3 IT_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4f22f9f3-554c-44b5-899d-739afa09e450">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_17</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/35ffb326-7941-4c7c-b7ce-44d6d16f5abe">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_17</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2b16d316-6001-40a7-8d92-4671370dfd6d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_30</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_30</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b16bc10c-c743-431c-8586-783a86666bc1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_22</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_22</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bbb81075-dad1-44da-961f-3f84c42bad2d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b53229ec-7750-4ad7-8f02-3e20659b1c01">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Astro_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8"/>
+    <rdfs:label>Astro_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a9c48fd6-02d3-4653-ad01-592669071f5c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5 IT_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ad83290a-f56e-4316-8872-033cabfecc71"/>
+    <rdfs:label>L5 IT_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Pvalb</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Pvalb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/94c6251d-b6d8-4086-929b-4cdf5ec5b237">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_23</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_23</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2991b6db-8a73-40f5-9fc1-13c0b3fb7c8b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_11</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9aff2adb-76b1-4b8f-aed2-af6c3e4e7f12">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6 IT_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/9662f81d-ad50-41c7-a072-b84d3747986c"/>
+    <rdfs:label>L6 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b8fa40de-a35c-4b6d-b166-0d13de738d88">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_34</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_34</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a6f404f7-1e33-42a0-bc5f-91b9549b80c1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/45a2b20c-f749-4166-9c09-ae19fc0f14df">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 ET_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f4500566-2841-499a-8b18-1443f6c7d9c9"/>
+    <rdfs:label>L5 ET_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7b1498b5-3046-4f4e-997d-ad7332c32831">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_10</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/418b60e9-79cd-461d-89b4-0e239a7c31c1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>Sncg_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bcf9ff65-94da-4d3a-819b-b3ee94e35fa6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_10</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/063dc21f-8118-4217-9035-66e9d177979e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b14167b3-ff70-466d-aec1-15c697c4426a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/92469613-9984-43ff-bfa8-2521b0e43ca7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L2/3 IT_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a8b45143-0715-444d-8c91-0c66a5b8add9"/>
+    <rdfs:label>L2/3 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1db4719c-decb-4f8b-a2a6-4b5487f1b784">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/60d1b5ba-2653-46e4-b413-7a6f0600053d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_7</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/77ffeb4d-d891-4e0a-9edb-e96be120d25f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_24</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_24</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/574dd4e0-4432-4d21-a83f-7771c645f2c5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 ET_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/80b88853-98e0-49ea-a338-b4eb3a3f5531"/>
+    <rdfs:label>L5 ET_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5afd9599-0e25-4c17-a88d-0f581d5a655a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>Sncg_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/30b80e4c-b771-4d8a-b17b-225fb75dc63f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6 CT_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/9addbf53-c341-480a-9449-b2ea8948d2a2"/>
+    <rdfs:label>L6 CT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a6c0111e-30e5-4263-98b5-53fd6ad7a76f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f25381d3-9233-4f04-b309-3ad5619f4d47">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 ET_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7b88f26c-c4f1-4bce-8ce9-72659c04024c"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e1b5319-beff-43ee-b82f-f4a8b8b6a4ea"/>
+    <rdfs:label>L5 ET_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/af09b6f9-68e2-4a0f-8377-86571ae438c3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_16</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_16</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/60eeb33e-67e7-43aa-8198-f3df7266df0e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <rdfs:label>Pvalb_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2fc1e0d0-43b8-4289-8a2d-ae65c2273852">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_8</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/453b2397-eddf-46a8-90ca-aca97ece065e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L2/3 IT_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220"/>
+    <rdfs:label>L2/3 IT_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/74d444ac-3d6a-4368-930d-cb90b6074eb1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_21</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_21</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0d148d3d-648c-4114-bcde-4fd695f5b0d9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_9</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/693ad801-d549-47fd-9ed4-93bed19ae194">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5/6 NP_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/04bc49a5-f53a-472d-9e13-0fd352e2ac69"/>
+    <rdfs:label>L5/6 NP_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Sncg</ns:CrossArea_subclass>
+    <ns:cell_type>sncg GABAergic cortical interneuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Sncg</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6f623ba3-61b1-44af-b740-9cf92c4df0af">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_14</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_14</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fef9f792-23c7-43b3-87a4-def9ed15f50a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5 IT_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ad83290a-f56e-4316-8872-033cabfecc71"/>
+    <rdfs:label>L5 IT_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/04bc49a5-f53a-472d-9e13-0fd352e2ac69">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5/6 NP_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/b8dfdec2-7569-41ca-b2cb-4bc543ec2ffe"/>
+    <rdfs:label>L5/6 NP_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1df231c0-adb1-4daa-8ac7-ef88b84bc45d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <rdfs:label>Pvalb_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b1bde1f9-645e-4c15-a353-e97c3a29c5bb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Oligo_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4d7063ae-fe8f-46b6-b2c2-dd09baf6ed12"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/54a03df6-3f52-4c1c-817b-be345722beb2"/>
+    <rdfs:label>Oligo_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e804d547-e035-4b0a-92f5-f5d6f7b23f94">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_29</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_29</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/98b1cdc5-aaa9-46e0-974a-935255b5607d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5 Lhx6_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/d9e7063d-2f86-4a4c-a4c7-a59e1dcfd9aa"/>
+    <rdfs:label>Lamp5 Lhx6_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0d4b5d6f-5856-4a29-b812-dc5c109ddee2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/82eb6aad-84cb-4f3b-ab5d-db13c18cfa4a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Oligo_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4d7063ae-fe8f-46b6-b2c2-dd09baf6ed12"/>
+    <rdfs:label>Oligo_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/02519258-7b4c-49a6-a924-e1f568ad9bc8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1eccceb3-a542-40ff-8886-7b8a77d993c8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L4 IT_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae45b55c-5e91-4c4b-94e3-96a3765375d5"/>
+    <rdfs:label>L4 IT_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d0834216-5bcc-4d21-86d3-07c81db65066">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L4 IT_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/62fa218d-92d2-491f-89b1-0ead167dc83b"/>
+    <rdfs:label>L4 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bc001f69-a8dc-46ef-8562-fd56a670478c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a472cc76-ade6-460b-b0a6-1a14af134b29">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e574b1bc-bf02-414c-bfe3-3574d6a5d24b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>Sncg_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8f6e51d9-9c3f-4e15-b39e-b27f41b069a1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L2/3 IT_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a8b45143-0715-444d-8c91-0c66a5b8add9"/>
+    <rdfs:label>L2/3 IT_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/92092ab6-da75-46a9-bfbb-ffe4afc28f07">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_27</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_27</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d492fddd-0393-4bf0-9223-e0d94d3644d2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_11</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d1b67ad0-82e9-4abc-b1d1-ad66e3266eef">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6fee2479-b6b7-4110-aa29-23f8e74314ff">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sncg_7</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/013b130c-00c4-4296-b670-528a5e08387a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Class>excitatory</ns:Class>
+    <rdfs:label>excitatory</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/443ec163-5a7e-448f-af29-addeb88a91ad">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 IT_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ac036663-4aa9-4b2e-a8d8-a90311638eca"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/7b88f26c-c4f1-4bce-8ce9-72659c04024c"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f1b0219c-cd6e-43fb-bd01-2988ecbacbba"/>
+    <rdfs:label>L5 IT_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ff66c190-0760-4858-972c-2a9c68671684">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Micro/PVM_1</ns:CrossArea_cluster>
+    <ns:CrossArea_subclass>Micro/PVM</ns:CrossArea_subclass>
+    <ns:cell_type>microglial cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>Micro/PVM_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/50205671-b050-41ce-9694-579e7e54f53e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 IT_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ac036663-4aa9-4b2e-a8d8-a90311638eca"/>
+    <rdfs:label>L5 IT_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c8b660e4-590e-4be5-8a17-d8ae059a88cc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L6 IT</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L6 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/343e8ef8-10d9-4a8b-9af5-7d23373f29ae">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L2/3 IT_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220"/>
+    <rdfs:label>L2/3 IT_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ee324b5d-46f1-4c00-a8ce-bd411dc17865">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_32</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_32</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cbcf5286-c8e9-462d-82b4-793266e3c218">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L2/3 IT_6</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220"/>
+    <rdfs:label>L2/3 IT_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9addbf53-c341-480a-9449-b2ea8948d2a2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L6 CT</ns:CrossArea_subclass>
+    <ns:cell_type>corticothalamic-projecting glutamatergic cortical neuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/013b130c-00c4-4296-b670-528a5e08387a"/>
+    <rdfs:label>L6 CT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4d7063ae-fe8f-46b6-b2c2-dd09baf6ed12">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Oligo</ns:CrossArea_subclass>
+    <ns:cell_type>oligodendrocyte</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1e2766b7-f19d-4a82-9a94-36bb04fe3c76"/>
+    <rdfs:label>Oligo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fdd05ee3-da04-4c49-a317-76e4153c9b04">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5 Lhx6_1</ns:CrossArea_cluster>
+    <ns:CrossArea_subclass>Lamp5 Lhx6</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f228fe40-53dd-4908-bcc8-34ac2a19e435"/>
+    <rdfs:label>Lamp5 Lhx6_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6a433656-f1c3-4a9c-9357-71e7e4717594">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_15</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_15</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ae7aed2f-6789-44fe-9ced-ac20e10cdcf8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_22</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_22</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a454f700-4606-40cb-878c-b04d00d31649">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_8</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8662427b-b858-4e50-96c7-9ce45e1a5377">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L4 IT_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/62fa218d-92d2-491f-89b1-0ead167dc83b"/>
+    <rdfs:label>L4 IT_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5e935b32-d65e-48a2-b178-6abb10d751b0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_35</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_35</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a8b45143-0715-444d-8c91-0c66a5b8add9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L2/3 IT</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L2/3 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7fdbbd03-d2de-4630-b1e0-a2db0d4a6d26">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>VLMC_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/dee5fcce-9715-466b-bedd-b273d1b3eee7"/>
+    <rdfs:label>VLMC_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/62a58d80-d993-4786-83e4-e59257145312">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_28</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_28</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/907a17b8-f747-4e72-bfe1-5ae2b897a5ce">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L4 IT_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae45b55c-5e91-4c4b-94e3-96a3765375d5"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/7b88f26c-c4f1-4bce-8ce9-72659c04024c"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/453b2397-eddf-46a8-90ca-aca97ece065e"/>
+    <rdfs:label>L4 IT_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/172a1b4b-acd3-461c-af2e-3677c752a326">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_15</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_15</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/34c1b67a-1940-41ad-b7c5-fbc16adbe53c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L5 ET_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e1b5319-beff-43ee-b82f-f4a8b8b6a4ea"/>
+    <rdfs:label>L5 ET_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a430eb04-1451-4653-b48f-3cf67db904dd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_7</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e73b04f1-9c30-4768-ad52-099c5e5077b9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/839cb075-9d47-4d76-99d9-9a95e1d22179">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6b_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/746051f8-55de-476a-8012-ffd2874805ef"/>
+    <rdfs:label>L6b_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9662f81d-ad50-41c7-a072-b84d3747986c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L6 IT</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L6 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4589de2f-8c1f-4611-8fd5-90d9291458df">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L4 IT_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae45b55c-5e91-4c4b-94e3-96a3765375d5"/>
+    <rdfs:label>L4 IT_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7f910134-054b-4233-be8e-5301d3f59e8a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L6b_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/746051f8-55de-476a-8012-ffd2874805ef"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/77687214-fa21-4318-971e-c6e5ddea33c1"/>
+    <rdfs:label>L6b_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b7131bab-9ad4-48b5-9d1f-17b9b2d7595c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>Sst_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e95ebd3b-e0bb-442b-a5b4-7e9c91bdd3a9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Endo_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/fac4198a-eeac-4ab6-9262-b050f6b11999"/>
+    <rdfs:label>Endo_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/413fb3b6-fd2f-412e-b542-d2df6b8b690a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_20</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/7b88f26c-c4f1-4bce-8ce9-72659c04024c"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/e804d547-e035-4b0a-92f5-f5d6f7b23f94"/>
+    <rdfs:label>Sst_20</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/465d5295-766e-42ea-8218-34e6bfdb8f3a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5/6 NP_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715"/>
+    <rdfs:label>L5/6 NP_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ad83290a-f56e-4316-8872-033cabfecc71">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L5 IT</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L5 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/62fa218d-92d2-491f-89b1-0ead167dc83b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L4 IT</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L4 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a26ce025-9e46-4368-96ff-ad4f6e4f8e1a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pvalb_11</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fba81405-0c90-4926-a305-bab987debb8e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_31</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bff976e3-b194-45e5-8ff9-f6aa9b0021d5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L4 IT_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/62fa218d-92d2-491f-89b1-0ead167dc83b"/>
+    <rdfs:label>L4 IT_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ff5b48f1-b984-44de-be2d-c9b277ef3039">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_10</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fa908013-5e79-455c-bccc-adc5960efceb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_15</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_15</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a008468a-34a0-426b-8c84-8486aa131c17">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5/6 NP_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/93dd65b7-01dd-489c-a148-2cf908f6a715"/>
+    <rdfs:label>L5/6 NP_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9e728bd7-e617-4fb6-8a55-5a95db7b946c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_12</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a62f67d6-e2b7-4cd6-8bcd-ab1ea13c1d1e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_15</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_15</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/683b3696-6e07-46c8-bf8f-fe7c6cc5ca00">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/48117bed-73f3-42c6-81ee-05e17a3131ae">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pax6_1</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ed518a35-77db-407b-9c5a-8a4a5fdb8306"/>
+    <rdfs:label>Pax6_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d9e7063d-2f86-4a4c-a4c7-a59e1dcfd9aa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Lamp5 Lhx6</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/fdd05ee3-da04-4c49-a317-76e4153c9b04"/>
+    <rdfs:label>Lamp5 Lhx6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L2/3 IT</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L2/3 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b3d66bd9-384a-479e-901e-c782b6f82d31">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/44ab6527-16a1-4fcc-a2a7-c6dbdfb385a5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Oligo_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4d7063ae-fe8f-46b6-b2c2-dd09baf6ed12"/>
+    <rdfs:label>Oligo_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/853daa61-0773-4450-a8b0-432032ff1575">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_16</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_16</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cc538640-9fc7-4067-b92a-08eeedded85b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_36</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_36</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Lamp5</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Lamp5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ae45b55c-5e91-4c4b-94e3-96a3765375d5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L4 IT</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65"/>
+    <rdfs:label>L4 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6fc15240-bdda-4222-ad6c-5cd005413230">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_21</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_21</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b47712a8-a410-47fc-9f72-3d6e42374c99">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_14</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_14</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a1a257b9-5048-4b50-b5d3-ba7f61ec8eb6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_18</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c0d18829-5c7b-4f54-89d4-be12d7c45eb9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_20</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_20</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Sst</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/bb4cbe94-6e20-4ead-b796-8d6523ab37d4"/>
+    <rdfs:label>Sst</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/367bd823-7ad7-476c-bf57-548169a942eb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Pax6_3</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/064b97fc-182c-47ae-aeff-0fac74976505"/>
+    <rdfs:label>Pax6_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/30b22ee1-86a3-4bf9-8a1c-f1a4d0745000">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_9</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b9e1b607-da58-4a1d-afe4-084eeda61e6e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_29</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_29</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1e2766b7-f19d-4a82-9a94-36bb04fe3c76">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Oligo</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a270e15a-5c06-4ea3-b0fc-56d899fe7404"/>
+    <rdfs:label>Oligo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/38c41859-d708-42b5-8834-704a3bb52699">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pax6_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/71d91dc5-fc2f-4bed-9f32-7b58638a325c"/>
+    <rdfs:label>Pax6_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8b08bea3-66d1-4215-8d2f-d067d213b38e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sncg_6</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/028b56b9-b178-45ad-9233-58c13d176af5"/>
+    <rdfs:label>Sncg_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6a1ab408-4ed9-4fb4-8ea1-85c81e0cc9c9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Lamp5_2</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <rdfs:label>Lamp5_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f228fe40-53dd-4908-bcc8-34ac2a19e435">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>lamp5 GABAergic cortical interneuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>lamp5 GABAergic cortical interneuron</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1e2174c7-6ad1-43ca-8111-8279d0323682">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>L2/3 IT_5</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0158e87a-9c5d-4d55-9c74-2b49ae9cd220"/>
+    <rdfs:label>L2/3 IT_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b4b31b4d-7e74-4e66-8b09-2257fc7b64f3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_17</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6e2aef4e-0e0f-470e-8d2e-5bcb1a6b34f7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/6d88209c-9e8c-4f1e-8701-53d7b4a8d7fc"/>
+    <rdfs:label>Sst_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6990ce24-2668-42d5-b334-d70c85da10a5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <rdfs:label>Vip_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/064b97fc-182c-47ae-aeff-0fac74976505">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Pax6</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Pax6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/84282def-8a49-415a-809c-cf57a2f60c87">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_13</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/75c8775e-37a2-4ef6-9c19-0744505bfac2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_26</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Class>inhibitory</ns:Class>
+    <rdfs:label>inhibitory</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6bbe7363-e480-4526-9dc9-6dca1ab4470e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_33</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_33</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/93caebaf-d7b5-4676-b5d9-3a88a64ec4a2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Astro_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/4e60046b-9ab1-4a9e-9ee6-feceba380c17"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/64945ce7-c4a3-4a3b-91e3-60351b408bb8"/>
+    <rdfs:label>Astro_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6e9b0249-74b9-4d45-bdc7-c879ac47114d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L5 IT_4</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/ac036663-4aa9-4b2e-a8d8-a90311638eca"/>
+    <rdfs:label>L5 IT_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/54a03df6-3f52-4c1c-817b-be345722beb2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Oligo_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1e2766b7-f19d-4a82-9a94-36bb04fe3c76"/>
+    <rdfs:label>Oligo_2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/28a73b4f-78a9-4918-a36f-d6c7c281a0e5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_12</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f4500566-2841-499a-8b18-1443f6c7d9c9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>L5 ET</ns:CrossArea_subclass>
+    <ns:cell_type>L5 extratelencephalic projecting glutamatergic cortical neuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/013b130c-00c4-4296-b670-528a5e08387a"/>
+    <rdfs:label>L5 ET</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/af89c41b-5f8f-4c71-a011-6120b51793ef">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>VLMC_1</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/dee5fcce-9715-466b-bedd-b273d1b3eee7"/>
+    <rdfs:label>VLMC_1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6c796239-8542-4204-866d-77939aa17cd2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6b_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/746051f8-55de-476a-8012-ffd2874805ef"/>
+    <rdfs:label>L6b_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6943fabb-432f-47af-966d-dc26135b514e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_19</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/40922a30-4090-42eb-9254-aa729351a1b6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sst_33</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <rdfs:label>Sst_33</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7f0f1534-4fe1-4855-9fba-312a12a2b408">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Sst_20</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/26a5508b-3b1d-4f57-be34-097ca7a4bb8f"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c"/>
+    <rdfs:label>Sst_20</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4e1b5319-beff-43ee-b82f-f4a8b8b6a4ea">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L5 ET</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f4500566-2841-499a-8b18-1443f6c7d9c9"/>
+    <rdfs:label>L5 ET</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bdc1a8c8-370e-44c6-9b81-5c72e90dac8c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>Sst</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f634614e-225f-47f1-a05a-2d4cb856cdc3"/>
+    <rdfs:label>Sst</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/61ea6113-4f40-4426-9e19-8ee8354750c0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_16</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_16</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/46691e48-2360-4670-86d9-3784ab47651e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Vip_12</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cd20c80e-11f9-47c9-a24c-90452bbc694d"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c1f71e25-59db-483d-acf8-457a65ebe9e2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Oligo_3</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/9a7ac575-027c-482d-b6e7-b37411551608"/>
+    <rdfs:label>Oligo_3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/380825e2-1a96-4f22-9233-bdcd0ac36c46">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L2/3 IT_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a8b45143-0715-444d-8c91-0c66a5b8add9"/>
+    <rdfs:label>L2/3 IT_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/65b0b083-2a81-4404-ae89-4e6527397a65">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>L2/3-6 intratelencephalic projecting glutamatergic cortical neuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/013b130c-00c4-4296-b670-528a5e08387a"/>
+    <rdfs:label>L2/3-6 intratelencephalic projecting glutamatergic cortical neuron</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/PCL_0010001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>cell cluster</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/14c59e8f-3f72-46ed-aa97-3d1114446b07">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Lamp5_4</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/5df20a3d-b511-4cff-8f64-aec8f0ad0579"/>
+    <rdfs:label>Lamp5_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f42d9bb9-365a-4db0-8d99-c1e14b585e8f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Source>linnarson_10x_all_layers</ns:Source>
+    <obo:RO_0015003 rdf:resource="http://example.org/a16467fd-cc0e-4efa-8544-846487ad5de8"/>
+    <rdfs:label>linnarson_10x_all_layers</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4f30af11-885a-474e-a8a0-159917455abc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Pvalb_7</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e392360-c7ab-459e-abb1-ec511b3ff338"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/ca1eb6ad-f6a0-4805-8257-c8365595fac7"/>
+    <rdfs:label>Pvalb_7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a086e2fd-e97d-42c1-af6b-44a141cd2f0e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>L6b_6</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/746051f8-55de-476a-8012-ffd2874805ef"/>
+    <rdfs:label>L6b_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/aafd51bc-64a7-40d4-a6ac-7fe8b39a0367">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_cluster>Sncg_5</ns:CrossArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/7fdeaaf8-8aa7-4c2c-b06c-7ebcc859de05"/>
+    <rdfs:label>Sncg_5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7de51faa-a6da-4b7e-a2a2-6cfcee472818">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:CrossArea_subclass>Lamp5</ns:CrossArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/f228fe40-53dd-4908-bcc8-34ac2a19e435"/>
+    <rdfs:label>Lamp5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/77687214-fa21-4318-971e-c6e5ddea33c1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_subclass>L6b</ns:WithinArea_subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/013b130c-00c4-4296-b670-528a5e08387a"/>
+    <rdfs:label>L6b</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f0897639-8e57-4649-bc3c-859e90c1383c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:WithinArea_cluster>Vip_2</ns:WithinArea_cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f56bd3be-901b-44a0-9ed6-bba4b350a797"/>
+    <rdfs:label>Vip_2</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns="http://example.org/"
+   xmlns:obo="http://purl.obolibrary.org/obo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/f7983bb4-62b5-4489-a23a-a34f10e54019">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121104</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5 FEZF2 SCN7A</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 104</ns:cell_type_designation>
+    <ns:cluster>Exc L5 FEZF2 SCN7A</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/86ea0fcc-eea7-46d6-9959-f8ba9b779b56"/>
+    <rdfs:label>CS1910121104</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:subclass>L4 IT</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a282e233-1621-4ce1-9cf0-e254d1c1a42f"/>
+    <rdfs:label>L4 IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5a84c8b8-8875-4a25-baad-0117c1779a33">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Donor L6 SLC17A7 RARRES2</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/d71b52d8-d86f-42ae-a209-7a401c601476"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Donor L6 SLC17A7 RARRES2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/934157d0-fed0-4977-9541-8262112233d8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Donor L2-4 GAD1 GPR17</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/31bcd6a4-5e36-4d6d-a7d8-ed111807846b"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Donor L2-4 GAD1 GPR17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/db3933c9-4ed1-4af8-b70f-6f9d9b3945dc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121101</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 TBCC</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 101</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 TBCC</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/19d894bb-0469-46a0-be91-f24caf9180e7"/>
+    <rdfs:label>CS1910121101</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/de7036ab-490e-4a0b-867f-209c0fa49b3e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121079</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4-5 RORB LINC01474</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 079</ns:cell_type_designation>
+    <ns:cluster>Exc L4-5 RORB LINC01474</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121079</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>pvalb GABAergic cortical interneuron</ns:cell_type>
+    <ns:subclass>PVALB</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a52cdce-8732-4ea4-9701-5576c342bc58"/>
+    <rdfs:label>PVALB</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0a85871b-eef0-4a09-8883-0116bdaa9b5e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121020</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-5 VIP KCNJ2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 020</ns:cell_type_designation>
+    <ns:cluster>Inh L1-5 VIP KCNJ2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121020</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5bdf94a7-11a1-4a61-a4ea-84b0ed284821">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121077</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 RORB CMAHP</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 077</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 RORB CMAHP</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121077</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b20f200a-9cc8-46a6-9f37-afca747a6c68">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>M1lm</ns:region>
+    <rdfs:label>M1lm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d86316ac-adf0-4668-9800-aa33b50708be">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>CgG</ns:region>
+    <rdfs:label>CgG</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/96ebd407-3881-4c3c-8cdf-32e1f08db3eb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121013</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 VIP PRSS8</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 013</ns:cell_type_designation>
+    <ns:cluster>Inh L1 VIP PRSS8</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121013</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/dc215c88-e96f-4424-a568-c8307f124c62">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121095</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 CPZ</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 095</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 CPZ</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/162da98b-5ff3-4124-b244-7d2604fb1fe3"/>
+    <rdfs:label>CS1910121095</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/95ff0936-94b9-4a4d-8353-962bf668dd54">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>vascular leptomeningeal cell</ns:cell_type>
+    <ns:cell_type_accession>CS1910121118</ns:cell_type_accession>
+    <ns:cell_type_alias>VLMC L1-3 CYP1B1</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 008</ns:cell_type_designation>
+    <ns:cluster>VLMC L1-3 CYP1B1</ns:cluster>
+    <ns:subclass>VLMC</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850"/>
+    <rdfs:label>CS1910121118</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/05712443-b0ed-493b-bbb2-1aaa8fee34ab">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121091</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 THEMIS THTPA</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 091</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 THEMIS THTPA</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/beb0c46c-b1be-42e1-9b47-0f9535a23e3c"/>
+    <rdfs:label>CS1910121091</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/794f3c32-3d6c-4ea6-9aa3-e440741cf6ee">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121065</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3 RORB CARTPT</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 065</ns:cell_type_designation>
+    <ns:cluster>Exc L3 RORB CARTPT</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121065</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5105632c-624e-49a9-9a7f-8d7ec76c34ca">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121005</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-6 LAMP5 CA13</ns:cell_type_alias>
+    <ns:cell_type_alt_alias>Lamp5 Lhx6 1</ns:cell_type_alt_alias>
+    <ns:cell_type_designation>Neuron 005</ns:cell_type_designation>
+    <ns:cluster>Inh L1-6 LAMP5 CA13</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee"/>
+    <rdfs:label>CS1910121005</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cc117c7a-6cdf-40e9-af37-56e5c73b8ba5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121019</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-6 VIP PENK</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 019</ns:cell_type_designation>
+    <ns:cluster>Inh L1-6 VIP PENK</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121019</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c549c7a6-0a89-4c37-9d36-7b6d25ec5963">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121015</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 ADARB2 ADAM33</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 015</ns:cell_type_designation>
+    <ns:cluster>Inh L1 ADARB2 ADAM33</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121015</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1ba08cc1-c587-42e1-81e3-485166ca5ec5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>oligodendrocyte precursor cell</ns:cell_type>
+    <ns:cell_type_accession>CS1910121114</ns:cell_type_accession>
+    <ns:cell_type_alias>OPC L1-6 MYT1</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 004</ns:cell_type_designation>
+    <ns:cluster>OPC L1-6 MYT1</ns:cluster>
+    <ns:subclass>OPC</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850"/>
+    <rdfs:label>CS1910121114</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a519f097-9f38-4605-8afd-372c2cf7eabf">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121102</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 FEZF2 ONECUT1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 102</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 FEZF2 ONECUT1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/86ea0fcc-eea7-46d6-9959-f8ba9b779b56"/>
+    <rdfs:label>CS1910121102</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/253215df-6023-4175-9ad6-f2b8a74f66eb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121056</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-4 RORB RPS3P6</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 056</ns:cell_type_designation>
+    <ns:cluster>Exc L3-4 RORB RPS3P6</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c"/>
+    <rdfs:label>CS1910121056</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e8f793ba-b1fe-446b-ad1d-7835b9982222">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121043</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L5-6 SST TH</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 043</ns:cell_type_designation>
+    <ns:cluster>Inh L5-6 SST TH</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121043</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e2f18e97-5d3c-48f3-a9d9-b06b928a3bf2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Donor L4 RORB LINC00702</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/2244b817-5285-4dbe-9011-7ff19a91fac0"/>
+    <rdfs:label>Donor L4 RORB LINC00702</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bdbe6fa8-bb31-476a-a9ad-41008c9382f0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121034</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-3 VIP ZNF322P1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 034</ns:cell_type_designation>
+    <ns:cluster>Inh L1-3 VIP ZNF322P1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121034</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/646ff7ed-c11d-413e-9bb0-ab4f191932e0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L6a</ns:cortical_layer>
+    <rdfs:label>L6a</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/60884519-cd97-4f31-bb84-f07e2096d13d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121004</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L6 LAMP5 C1QL2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 004</ns:cell_type_designation>
+    <ns:cluster>Inh L6 LAMP5 C1QL2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee"/>
+    <rdfs:label>CS1910121004</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/86ea0fcc-eea7-46d6-9959-f8ba9b779b56">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>L5 extratelencephalic projecting glutamatergic cortical neuron</ns:cell_type>
+    <ns:subclass>L5 ET</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/213f0e36-1cfe-4907-beba-03cc14c5a7ee"/>
+    <rdfs:label>L5 ET</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ab9f54cb-12bb-433b-b7fc-a94dddaebbef">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121100</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 SLITRK6</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 100</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 SLITRK6</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/19d894bb-0469-46a0-be91-f24caf9180e7"/>
+    <rdfs:label>CS1910121100</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9ba2508c-3562-4c2c-a7a2-3d9c02091bbb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121057</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4 RORB BHLHE22</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 057</ns:cell_type_designation>
+    <ns:cluster>Exc L4 RORB BHLHE22</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c"/>
+    <rdfs:label>CS1910121057</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d5abbb0f-d729-4b31-8d89-43af6dd322c5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121055</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L2-4 RORB GRIK1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 055</ns:cell_type_designation>
+    <ns:cluster>Exc L2-4 RORB GRIK1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c"/>
+    <rdfs:label>CS1910121055</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8086d2da-c81a-433a-b7c6-ddc924304922">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121097</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 TBC1D26</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 097</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 TBC1D26</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/19d894bb-0469-46a0-be91-f24caf9180e7"/>
+    <rdfs:label>CS1910121097</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8b1a2763-bf89-4ca0-a6e5-830a534c0e9d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L2</ns:cortical_layer>
+    <rdfs:label>L2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d7bbbcda-aa7e-4caf-8181-fd33d2391e3d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121064</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 LINC00507 SLN</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 064</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 LINC00507 SLN</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121064</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d15cee7c-361f-45b8-af82-33a37b16606f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121111</ns:cell_type_accession>
+    <ns:cell_type_alias>Astro L1-6 FGFR3 ETNPPL</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 001</ns:cell_type_designation>
+    <ns:cluster>Astro L1-6 FGFR3 ETNPPL</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f2fb345c-bb4c-4d14-9a8b-66bc6357d50b"/>
+    <rdfs:label>CS1910121111</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/247dbe8b-1133-4d4f-b981-8bb38b643c20">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121009</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 PAX6 CA4</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 009</ns:cell_type_designation>
+    <ns:cluster>Inh L1 PAX6 CA4</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/efef8244-5190-4555-a190-0feedc553998"/>
+    <rdfs:label>CS1910121009</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/efef8244-5190-4555-a190-0feedc553998">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>caudal ganglionic eminence derived GABAergic cortical interneuron</ns:cell_type>
+    <ns:subclass>PAX6</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a52cdce-8732-4ea4-9701-5576c342bc58"/>
+    <rdfs:label>PAX6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/34c00ade-212a-4002-b4ce-619763234766">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121107</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 FEZF2 MYBPHL</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 107</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 FEZF2 MYBPHL</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b58a886-86fd-4b99-b8ef-8bd6d16be886"/>
+    <rdfs:label>CS1910121107</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/010b1ddd-73b7-4a2b-a281-7c4bcd274e23">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121010</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 PAX6 GRIP2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 010</ns:cell_type_designation>
+    <ns:cluster>Inh L1 PAX6 GRIP2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/efef8244-5190-4555-a190-0feedc553998"/>
+    <rdfs:label>CS1910121010</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4a5b1eca-8e51-41af-8d50-be86ccdd11b5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121116</ns:cell_type_accession>
+    <ns:cell_type_alias>Oligo L4-6 OPALIN</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 006</ns:cell_type_designation>
+    <ns:cluster>Oligo L4-6 OPALIN</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/d1c9b378-a680-4921-997a-7235d80779b8"/>
+    <rdfs:label>CS1910121116</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/097ed5d6-9b3b-4a01-b77b-4200f8aa9756">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L5-6 FEZF2 NFATC2IP</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L5-6 FEZF2 NFATC2IP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c2611393-acfe-4a81-bfd3-678e17c78085">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121093</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 FEZF2 ANKRD20A1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 093</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 FEZF2 ANKRD20A1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/162da98b-5ff3-4124-b244-7d2604fb1fe3"/>
+    <rdfs:label>CS1910121093</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/19d894bb-0469-46a0-be91-f24caf9180e7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>L6b glutamatergic cortical neuron</ns:cell_type>
+    <ns:subclass>L6b</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/213f0e36-1cfe-4907-beba-03cc14c5a7ee"/>
+    <rdfs:label>L6b</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cd611c38-f37f-461b-a92d-a7feb12f229a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121052</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L3-4 PVALB HOMER3</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 052</ns:cell_type_designation>
+    <ns:cluster>Inh L3-4 PVALB HOMER3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121052</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8fb53e56-e449-470e-b7c4-0c005bff20cb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121061</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4-5 RORB AIM2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 061</ns:cell_type_designation>
+    <ns:cluster>Exc L4-5 RORB AIM2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/2244b817-5285-4dbe-9011-7ff19a91fac0"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c"/>
+    <rdfs:label>CS1910121061</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/80ad1719-5771-4f42-aefe-7e231baf4f79">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121035</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L3 VIP CBLN1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 035</ns:cell_type_designation>
+    <ns:cluster>Inh L3 VIP CBLN1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121035</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7cead025-eeb4-4236-a2cf-d9a70d86311c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L1-6 THEMIS CARM1P1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L1-6 THEMIS CARM1P1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8738a3ff-7c04-451b-ae14-1770454e12f9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>WM</ns:cortical_layer>
+    <obo:RO_0015003 rdf:resource="http://example.org/998a4bfd-7f47-4d4d-bfbd-d0924bd92a63"/>
+    <rdfs:label>WM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f33ed54e-98e2-4114-9444-bc816e075c11">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121045</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L5-6 PVALB FAM150B</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 045</ns:cell_type_designation>
+    <ns:cluster>Inh L5-6 PVALB FAM150B</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121045</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c4c43c20-1f7f-4f33-828d-825e200297c3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121078</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 RORB CD24</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 078</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 RORB CD24</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121078</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c76a2f87-b62f-45e9-8b69-e19988999ed9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L3</ns:cortical_layer>
+    <rdfs:label>L3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5dbdf7f6-49dc-43f8-8b4c-20a94bfd4615">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121023</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L2-6 VIP VIP</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 023</ns:cell_type_designation>
+    <ns:cluster>Inh L2-6 VIP VIP</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121023</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8709aac7-3c3f-4290-8700-eefdc6396f0c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121099</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 P4HA3</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 099</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 P4HA3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/19d894bb-0469-46a0-be91-f24caf9180e7"/>
+    <rdfs:label>CS1910121099</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/62b677cb-c9d0-44f4-9201-42e7d7e58eb1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121026</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-3 VIP SSTR1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 026</ns:cell_type_designation>
+    <ns:cluster>Inh L1-3 VIP SSTR1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121026</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d01b2ea9-c4d6-4eba-9f81-04c575e1579e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L2-3 SST CALB1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L2-3 SST CALB1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/57f8ee38-cbd6-4064-b670-98cb85c65536">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121058</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4 RORB CCDC168</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 058</ns:cell_type_designation>
+    <ns:cluster>Exc L4 RORB CCDC168</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c"/>
+    <rdfs:label>CS1910121058</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8474a88a-4112-442b-afa6-3ef7026ae404">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121090</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 THEMIS GPR21</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 090</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 THEMIS GPR21</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/beb0c46c-b1be-42e1-9b47-0f9535a23e3c"/>
+    <rdfs:label>CS1910121090</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/49511760-5f45-47f1-a4e8-831e5ade63a2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L3 SLC17A7 RIN1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L3 SLC17A7 RIN1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/005a4ebe-6083-49cc-a1cb-3cd884403de4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121039</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L5-6 SST KLHL14</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 039</ns:cell_type_designation>
+    <ns:cluster>Inh L5-6 SST KLHL14</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121039</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1b41f63c-7374-4cec-a70b-07af51f878e0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L1</ns:cortical_layer>
+    <rdfs:label>L1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b26aeeaa-ab0e-449a-9567-b685a9262519">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121062</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L2-3 LINC00507 RPL9P17</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 062</ns:cell_type_designation>
+    <ns:cluster>Exc L2-3 LINC00507 RPL9P17</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121062</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a0fd1e12-cbee-478d-a0b1-1a70d56f52f8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121018</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 VIP SOX11</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 018</ns:cell_type_designation>
+    <ns:cluster>Inh L1 VIP SOX11</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121018</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1c7f4266-aedb-4d9a-ad0c-ef701220054a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121030</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-4 VIP CHRNA2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 030</ns:cell_type_designation>
+    <ns:cluster>Inh L1-4 VIP CHRNA2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121030</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2586b1db-52c8-43a1-bb55-a63af957f39d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121068</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-4 RORB PRSS12</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 068</ns:cell_type_designation>
+    <ns:cluster>Exc L3-4 RORB PRSS12</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121068</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2d670561-0c44-4d43-b808-59f3fd57a99f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121088</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 THEMIS IL7R</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 088</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 THEMIS IL7R</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/beb0c46c-b1be-42e1-9b47-0f9535a23e3c"/>
+    <rdfs:label>CS1910121088</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6d2f8290-5d97-4f22-a4e7-29a681413dba">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121085</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 THEMIS UBE2F</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 085</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 THEMIS UBE2F</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121085</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5c78263e-374d-47b2-ad4f-92587b15100f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L1-6 THEMIS PARD3B</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L1-6 THEMIS PARD3B</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d1896ac5-fd6f-46eb-a833-58d08b6e279a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121046</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L2-4 SST AHR</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 046</ns:cell_type_designation>
+    <ns:cluster>Inh L2-4 SST AHR</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121046</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8723780c-b946-47a7-9e23-b157aadd0227">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121098</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 KRT17</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 098</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 KRT17</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/19d894bb-0469-46a0-be91-f24caf9180e7"/>
+    <rdfs:label>CS1910121098</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/44f39466-3f94-4716-8d99-9d1134036972">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121115</ns:cell_type_accession>
+    <ns:cell_type_alias>Oligo L4-6 MOBP COL18A1</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 005</ns:cell_type_designation>
+    <ns:cluster>Oligo L4-6 MOBP COL18A1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/d1c9b378-a680-4921-997a-7235d80779b8"/>
+    <rdfs:label>CS1910121115</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4067bfe7-4dc2-44af-a837-4bd54c266811">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L6 PDGFRA NKAIN4</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L6 PDGFRA NKAIN4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/baece9f6-2d4f-4969-97f6-84244bb74a0d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L1-4 SST DNAJC19P8</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L1-4 SST DNAJC19P8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2a52cdce-8732-4ea4-9701-5576c342bc58">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:class>GABAergic</ns:class>
+    <obo:RO_0015003 rdf:resource="http://example.org/7befe5df-35db-402d-8983-b17c9a5b1730"/>
+    <rdfs:label>GABAergic</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5084015b-9950-443a-8106-51884ff8aba3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121051</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-3 PVALB WFDC2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 051</ns:cell_type_designation>
+    <ns:cluster>Inh L1-3 PVALB WFDC2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121051</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ff993c21-30cc-4b35-9976-401f3f2953fa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121037</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L6 SST NPY</ns:cell_type_alias>
+    <ns:cell_type_alt_alias>Sst Chodl</ns:cell_type_alt_alias>
+    <ns:cell_type_designation>Neuron 037</ns:cell_type_designation>
+    <ns:cluster>Inh L6 SST NPY</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121037</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4c108058-4eb7-4270-892c-15caf2dccad0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121063</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3 LINC00507 PSRC1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 063</ns:cell_type_designation>
+    <ns:cluster>Exc L3 LINC00507 PSRC1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121063</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d9cb21b2-cd5e-4b0c-b987-d88086ce1ca0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>M1ul</ns:region>
+    <rdfs:label>M1ul</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ac0d7406-2664-4df3-91b8-920355e4b88b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121086</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5 RORB SNHG7</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 086</ns:cell_type_designation>
+    <ns:cluster>Exc L5 RORB SNHG7</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121086</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9cc7c083-9eb4-4012-8bcd-b48011f84f80">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121053</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-6 PVALB SCUBE3</ns:cell_type_alias>
+    <ns:cell_type_alt_alias>Chandelier 1</ns:cell_type_alt_alias>
+    <ns:cell_type_designation>Neuron 053</ns:cell_type_designation>
+    <ns:cluster>Inh L1-6 PVALB SCUBE3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121053</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b8fcd948-f667-4579-8ff3-d35a76a37b9f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121087</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4-5 RORB LCN15</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 087</ns:cell_type_designation>
+    <ns:cluster>Exc L4-5 RORB LCN15</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121087</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d71b52d8-d86f-42ae-a209-7a401c601476">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Specimen_ID>H200.1023</ns:Specimen_ID>
+    <ns:Tissue_RIN>7.4 ± 0.7</ns:Tissue_RIN>
+    <ns:cause_of_death>mitral valve prolapse</ns:cause_of_death>
+    <rdfs:label>mitral valve prolapse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0567fbf9-ee54-4ef9-b3a6-3b471d64bfea">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121021</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 VIP PCDH20</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 021</ns:cell_type_designation>
+    <ns:cluster>Inh L1 VIP PCDH20</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121021</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a48d138d-16f0-4936-98b9-3b7489620e49">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L4-6 SLC17A7 CALM2P3</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L4-6 SLC17A7 CALM2P3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>sst GABAergic cortical interneuron</ns:cell_type>
+    <ns:subclass>SST</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a52cdce-8732-4ea4-9701-5576c342bc58"/>
+    <rdfs:label>SST</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/552e0e6e-ba80-48fd-8474-c775965b6c0a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121025</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-6 VIP RGS16</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 025</ns:cell_type_designation>
+    <ns:cluster>Inh L1-6 VIP RGS16</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121025</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8fa17dd6-5914-466c-bbbb-72f263490619">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121076</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 THEMIS TMEM233</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 076</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 THEMIS TMEM233</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121076</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7289bf58-bd02-47d7-bf34-755c77e78f17">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121041</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L4-6 SST MTHFD2P6</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 041</ns:cell_type_designation>
+    <ns:cluster>Inh L4-6 SST MTHFD2P6</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121041</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/42f90c0c-0b3a-43c1-ae74-83a674961680">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121032</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L2-5 VIP TOX2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 032</ns:cell_type_designation>
+    <ns:cluster>Inh L2-5 VIP TOX2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121032</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7ebb5d93-dd44-4b25-900c-bb9f52ca9a2e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121044</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L6 LHX6 GLP1R</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 044</ns:cell_type_designation>
+    <ns:cluster>Inh L6 LHX6 GLP1R</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121044</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ee7df7e3-7e03-4443-8412-94a681e2d654">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121047</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L5-6 PVALB STON2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 047</ns:cell_type_designation>
+    <ns:cluster>Inh L5-6 PVALB STON2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121047</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/84bd93e7-8e9e-4d0b-8e4b-11f18f08a281">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121001</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 LAMP5 NDNF</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 001</ns:cell_type_designation>
+    <ns:cluster>Inh L1 LAMP5 NDNF</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee"/>
+    <rdfs:label>CS1910121001</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d1c9b378-a680-4921-997a-7235d80779b8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>oligodendrocyte</ns:cell_type>
+    <ns:subclass>Oligodendrocyte</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850"/>
+    <rdfs:label>Oligodendrocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/734e9b67-99bd-4d74-9fbd-468974162d47">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121069</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 RORB HSPB3</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 069</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 RORB HSPB3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121069</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6a974858-dc29-42d7-b47d-0fb8ecec6331">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121038</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L5-6 SST ISOC1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 038</ns:cell_type_designation>
+    <ns:cluster>Inh L5-6 SST ISOC1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121038</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0015003">
+    <rdfs:label>subcluster of</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e71fc77d-c246-4673-b727-b5e0878c7b51">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121081</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 RORB LINC00320</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 081</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 RORB LINC00320</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121081</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6b58a886-86fd-4b99-b8ef-8bd6d16be886">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>near-projecting glutamatergic cortical neuron</ns:cell_type>
+    <ns:subclass>L5/6 NP</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/213f0e36-1cfe-4907-beba-03cc14c5a7ee"/>
+    <rdfs:label>L5/6 NP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6f3fe194-dbcb-4208-87c1-94fdb04dc624">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121094</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 FAM95C</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 094</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 FAM95C</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/162da98b-5ff3-4124-b244-7d2604fb1fe3"/>
+    <rdfs:label>CS1910121094</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/dc843c4f-57e3-46f2-a34a-8a72f9ff691e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121103</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 FEZF2 DCN</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 103</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 FEZF2 DCN</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/86ea0fcc-eea7-46d6-9959-f8ba9b779b56"/>
+    <rdfs:label>CS1910121103</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b25ee195-e90f-41aa-b5e8-b01f5b9a0088">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L5b</ns:cortical_layer>
+    <obo:RO_0015003 rdf:resource="http://example.org/d86316ac-adf0-4668-9800-aa33b50708be"/>
+    <rdfs:label>L5b</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d1320c5b-8401-4ef2-b377-5368bb28ce0a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121092</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 VWA2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 092</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 VWA2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/162da98b-5ff3-4124-b244-7d2604fb1fe3"/>
+    <rdfs:label>CS1910121092</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ddd34b8f-6179-4b4c-9ab3-1484e93ba56f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121031</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-3 VIP CCDC184</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 031</ns:cell_type_designation>
+    <ns:cluster>Inh L1-3 VIP CCDC184</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121031</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/071f7e6a-5700-41cd-85ec-0e7266abe1e3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121082</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5 RORB LINC01202</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 082</ns:cell_type_designation>
+    <ns:cluster>Exc L5 RORB LINC01202</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121082</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>vip GABAergic cortical interneuron</ns:cell_type>
+    <ns:subclass>VIP</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a52cdce-8732-4ea4-9701-5576c342bc58"/>
+    <rdfs:label>VIP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/70b27d92-b8be-40c8-932c-0e4457d686b8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L5-6 SST KLHDC8A</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L5-6 SST KLHDC8A</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7befe5df-35db-402d-8983-b17c9a5b1730">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_call rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</ns:outlier_call>
+    <rdfs:label>false</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/39e083b6-bad1-4f6e-83bc-d71a38f60ee8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>pericyte</ns:cell_type>
+    <ns:cell_type_accession>CS1910121119</ns:cell_type_accession>
+    <ns:cell_type_alias>Peri L1-6 MUSTN1</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 009</ns:cell_type_designation>
+    <ns:cluster>Peri L1-6 MUSTN1</ns:cluster>
+    <ns:subclass>Pericyte</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850"/>
+    <rdfs:label>CS1910121119</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4c2a02d8-cc0c-4a0c-b800-6b346848e032">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121006</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L5-6 LAMP5 SFTA3</ns:cell_type_alias>
+    <ns:cell_type_alt_alias>Lamp5 Lhx6 2</ns:cell_type_alt_alias>
+    <ns:cell_type_designation>Neuron 006</ns:cell_type_designation>
+    <ns:cluster>Inh L5-6 LAMP5 SFTA3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee"/>
+    <rdfs:label>CS1910121006</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/301beac1-7d54-4a54-b6c5-a319c2541f4f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121060</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4-5 RORB ASCL1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 060</ns:cell_type_designation>
+    <ns:cluster>Exc L4-5 RORB ASCL1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/2244b817-5285-4dbe-9011-7ff19a91fac0"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c"/>
+    <rdfs:label>CS1910121060</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/619496ae-c0a7-43c5-a557-6af62ca2e747">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121042</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L4-5 PVALB TRIM67</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 042</ns:cell_type_designation>
+    <ns:cluster>Inh L4-5 PVALB TRIM67</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121042</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/86f66977-4800-4e9b-9d9f-f975aa89bb33">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121014</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 VIP TNFAIP8L3</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 014</ns:cell_type_designation>
+    <ns:cluster>Inh L1 VIP TNFAIP8L3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121014</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e71efc92-0856-4854-887c-c456a7f7f00e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L1-3 SST OR2AD1P</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L1-3 SST OR2AD1P</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/592735fe-cc57-4dee-bfb2-34fbdc2f26ea">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L6</ns:cortical_layer>
+    <rdfs:label>L6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/87bde4e5-0386-4b99-b806-621ced3dbba9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121048</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L5 PVALB CNTNAP3P2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 048</ns:cell_type_designation>
+    <ns:cluster>Inh L5 PVALB CNTNAP3P2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121048</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b53b87d2-a80d-4932-8992-58e50a48004d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121075</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 THEMIS LINC00343</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 075</ns:cell_type_designation>
+    <ns:cluster>Exc L6 THEMIS LINC00343</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121075</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9d04c80d-bf86-4f33-abc9-a44c9deb38e6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121017</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 ADARB2 DISP2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 017</ns:cell_type_designation>
+    <ns:cluster>Inh L1 ADARB2 DISP2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121017</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/806bf996-4956-4871-9df8-3eb58d9b5382">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121049</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L2-4 PVALB C8orf4</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 049</ns:cell_type_designation>
+    <ns:cluster>Inh L2-4 PVALB C8orf4</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121049</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/834b7725-e9dd-469b-9fa0-5ce02c274cfe">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121028</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-3 VIP ACHE</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 028</ns:cell_type_designation>
+    <ns:cluster>Inh L1-3 VIP ACHE</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121028</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/213f0e36-1cfe-4907-beba-03cc14c5a7ee">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:class>Glutamatergic</ns:class>
+    <obo:RO_0015003 rdf:resource="http://example.org/7befe5df-35db-402d-8983-b17c9a5b1730"/>
+    <rdfs:label>Glutamatergic</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7d2e87ee-1aec-4080-b151-1458db8cad48">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121080</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4-6 RORB HPCA</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 080</ns:cell_type_designation>
+    <ns:cluster>Exc L4-6 RORB HPCA</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121080</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/beb0c46c-b1be-42e1-9b47-0f9535a23e3c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:subclass>L5/6 IT Car3</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a282e233-1621-4ce1-9cf0-e254d1c1a42f"/>
+    <rdfs:label>L5/6 IT Car3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/57b85870-0f13-4032-a26e-5a3bc8f24bee">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121074</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 THEMIS EGR3</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 074</ns:cell_type_designation>
+    <ns:cluster>Exc L6 THEMIS EGR3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121074</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9beb98f2-e7e9-4b5a-b056-1ff1d2a93f13">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L1-3 FGFR3 RLBP1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L1-3 FGFR3 RLBP1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/953c4050-56bd-4996-ac0c-a44ada839907">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121027</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-2 VIP RPL41P3</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 027</ns:cell_type_designation>
+    <ns:cluster>Inh L1-2 VIP RPL41P3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121027</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/48d3ce75-6021-49d2-be72-1588fbc73115">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L6 FEZF2 RPS17P9</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L6 FEZF2 RPS17P9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cc4e32ef-407f-4699-9c27-1f66d21bcb73">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>microglial cell</ns:cell_type>
+    <ns:cell_type_accession>CS1910121120</ns:cell_type_accession>
+    <ns:cell_type_alias>Micro L1-6 C1QC</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 010</ns:cell_type_designation>
+    <ns:cluster>Micro L1-6 C1QC</ns:cluster>
+    <ns:subclass>Microglia</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850"/>
+    <rdfs:label>CS1910121120</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d3e62b9b-eadb-4ac4-bc66-65ea6ddf7360">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Specimen_ID>H200.1025</ns:Specimen_ID>
+    <ns:Tissue_RIN>7.6 ± 1</ns:Tissue_RIN>
+    <obo:RO_0015003 rdf:resource="http://example.org/31bcd6a4-5e36-4d6d-a7d8-ed111807846b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/57380437-2077-4f95-beb7-3573e2dcf354">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L4c</ns:cortical_layer>
+    <obo:RO_0015003 rdf:resource="http://example.org/2244b817-5285-4dbe-9011-7ff19a91fac0"/>
+    <rdfs:label>L4c</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c2863396-cb99-4187-bd7d-347e9b5be5e4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121113</ns:cell_type_accession>
+    <ns:cell_type_alias>Astro L1 FGFR3 FOS</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 003</ns:cell_type_designation>
+    <ns:cluster>Astro L1 FGFR3 FOS</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f2fb345c-bb4c-4d14-9a8b-66bc6357d50b"/>
+    <rdfs:label>CS1910121113</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4f3f40a7-0391-4a53-a149-bfcd868b5f4c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121033</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L2-4 VIP DSEL</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 033</ns:cell_type_designation>
+    <ns:cluster>Inh L2-4 VIP DSEL</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121033</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/51a4e4b9-781d-4693-b5e0-909bc67be50a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121036</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-3 VIP GGH</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 036</ns:cell_type_designation>
+    <ns:cluster>Inh L1-3 VIP GGH</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121036</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/46afd45b-a1be-4110-b972-a9d2459d6efd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121024</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L3-6 VIP KCTD13</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 024</ns:cell_type_designation>
+    <ns:cluster>Inh L3-6 VIP KCTD13</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121024</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0b88940f-fbc8-4d3c-9b7f-7b3a7e69670c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121054</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L3-6 PVALB MFI2</ns:cell_type_alias>
+    <ns:cell_type_alt_alias>Chandelier 2</ns:cell_type_alt_alias>
+    <ns:cell_type_designation>Neuron 054</ns:cell_type_designation>
+    <ns:cluster>Inh L3-6 PVALB MFI2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121054</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5260db5e-eff3-42b0-85dc-875ca016078e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121096</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 FEZF2 ETV4</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 096</ns:cell_type_designation>
+    <ns:cluster>Exc L6 FEZF2 ETV4</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/162da98b-5ff3-4124-b244-7d2604fb1fe3"/>
+    <rdfs:label>CS1910121096</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4424e8c0-494b-44d3-9132-e4b32438d677">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121084</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4-5 RORB RPL31P31</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 084</ns:cell_type_designation>
+    <ns:cluster>Exc L4-5 RORB RPL31P31</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121084</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/162da98b-5ff3-4124-b244-7d2604fb1fe3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>L6 corticothalamic-projecting glutamatergic cortical neuron</ns:cell_type>
+    <ns:subclass>L6 CT</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/213f0e36-1cfe-4907-beba-03cc14c5a7ee"/>
+    <rdfs:label>L6 CT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4afdca86-8035-42e0-8b61-9ba4d6f8447a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L4</ns:cortical_layer>
+    <rdfs:label>L4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e1508b0b-406e-4e99-bb70-b010aff281ba">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L5a</ns:cortical_layer>
+    <obo:RO_0015003 rdf:resource="http://example.org/d86316ac-adf0-4668-9800-aa33b50708be"/>
+    <rdfs:label>L5a</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/23b23d09-e8d2-45a9-a52f-a046d75d3648">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121002</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 LAMP5 GGT8P</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 002</ns:cell_type_designation>
+    <ns:cluster>Inh L1 LAMP5 GGT8P</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee"/>
+    <rdfs:label>CS1910121002</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/72d983db-ae0c-4187-b3af-9645b791e135">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>MTG</ns:region>
+    <rdfs:label>MTG</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f2fb345c-bb4c-4d14-9a8b-66bc6357d50b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>astrocyte</ns:cell_type>
+    <ns:subclass>Astrocyte</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850"/>
+    <rdfs:label>Astrocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0feb0e36-4059-4685-bf6b-748f1200b8a9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121106</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5 FEZF2 DYRK2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 106</ns:cell_type_designation>
+    <ns:cluster>Exc L5 FEZF2 DYRK2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b58a886-86fd-4b99-b8ef-8bd6d16be886"/>
+    <rdfs:label>CS1910121106</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8542d34c-3c8a-4c22-a1df-fc51620b6ab2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121040</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L3-5 SST MAFB</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 040</ns:cell_type_designation>
+    <ns:cluster>Inh L3-5 SST MAFB</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5f8b307b-9c2d-4066-a83f-7507016097e4"/>
+    <rdfs:label>CS1910121040</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7a0e819b-ff11-425f-83d2-8e4b60e96212">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121072</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3 THEMIS PLA2G7</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 072</ns:cell_type_designation>
+    <ns:cluster>Exc L3 THEMIS PLA2G7</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121072</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d7d62f15-f7db-4b89-91f5-8c118bc52ee2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121008</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L6 LAMP5 ANKRD20A11P</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 008</ns:cell_type_designation>
+    <ns:cluster>Inh L6 LAMP5 ANKRD20A11P</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee"/>
+    <rdfs:label>CS1910121008</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>glutamatergic neuron</ns:cell_type>
+    <ns:subclass>IT</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/213f0e36-1cfe-4907-beba-03cc14c5a7ee"/>
+    <rdfs:label>IT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/9346da20-a1c2-4860-9cf2-b35192bfd40a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121007</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-2 PAX6 SCGN</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 007</ns:cell_type_designation>
+    <ns:cluster>Inh L1-2 PAX6 SCGN</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/efef8244-5190-4555-a190-0feedc553998"/>
+    <rdfs:label>CS1910121007</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0597a72b-1851-471f-ac6c-6d7b56d8b066">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L6b</ns:cortical_layer>
+    <rdfs:label>L6b</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/35f6717b-4bdf-4a25-ab0a-9ecbc1fac581">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L5-6 THEMIS RUNDC1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L5-6 THEMIS RUNDC1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/42e95b54-d247-44cc-a7b6-be111faf6249">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121067</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-4 RORB SEMA6D</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 067</ns:cell_type_designation>
+    <ns:cluster>Exc L3-4 RORB SEMA6D</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121067</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/fe7a5b09-5714-4ea0-a81c-2443013b00f1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121059</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4 RORB CACNG5</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 059</ns:cell_type_designation>
+    <ns:cluster>Exc L4 RORB CACNG5</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/a4fd6510-f83f-46ee-b164-5df490b7872c"/>
+    <rdfs:label>CS1910121059</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/025db268-2de1-47bc-b3af-bd1ebdf3a10d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>endothelial cell</ns:cell_type>
+    <ns:cell_type_accession>CS1910121117</ns:cell_type_accession>
+    <ns:cell_type_alias>Endo L2-5 CLDN5</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 007</ns:cell_type_designation>
+    <ns:cluster>Endo L2-5 CLDN5</ns:cluster>
+    <ns:subclass>Endothelial</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850"/>
+    <rdfs:label>CS1910121117</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7aa3f363-eb39-492b-a627-05a7b20e9a8e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121109</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 FEZF2 RSAD2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 109</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 FEZF2 RSAD2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b58a886-86fd-4b99-b8ef-8bd6d16be886"/>
+    <rdfs:label>CS1910121109</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2b701628-febf-4251-9e1a-d736361435af">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L4-6 RORB TSHZ1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L4-6 RORB TSHZ1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2bf2a341-7d08-4d77-bbb7-f445ce037652">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121108</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 FEZF2 CYP26B1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 108</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 FEZF2 CYP26B1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b58a886-86fd-4b99-b8ef-8bd6d16be886"/>
+    <rdfs:label>CS1910121108</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/10efdba8-781e-43a0-a418-2e45b654fd02">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121089</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L6 THEMIS C6orf48</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 089</ns:cell_type_designation>
+    <ns:cluster>Exc L6 THEMIS C6orf48</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/beb0c46c-b1be-42e1-9b47-0f9535a23e3c"/>
+    <rdfs:label>CS1910121089</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2244b817-5285-4dbe-9011-7ff19a91fac0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>V1C</ns:region>
+    <rdfs:label>V1C</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a282e233-1621-4ce1-9cf0-e254d1c1a42f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>L2/3-6 intratelencephalic projecting glutamatergic cortical neuron</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/213f0e36-1cfe-4907-beba-03cc14c5a7ee"/>
+    <rdfs:label>L2/3-6 intratelencephalic projecting glutamatergic cortical neuron</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d6f62646-a4af-4970-8a22-8e7264ed679c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121110</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 FEZF2 CABP7</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 110</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 FEZF2 CABP7</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b58a886-86fd-4b99-b8ef-8bd6d16be886"/>
+    <rdfs:label>CS1910121110</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c9a4ed53-94fe-409b-9c9c-c80d574cf6be">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121083</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L4-5 RORB HNRNPA1P46</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 083</ns:cell_type_designation>
+    <ns:cluster>Exc L4-5 RORB HNRNPA1P46</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121083</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d51057e0-2ca9-4d6b-9673-5a08ef80d3f3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121003</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-4 LAMP5 DUSP4</ns:cell_type_alias>
+    <ns:cell_type_alt_alias>Lamp5 Rosehip</ns:cell_type_alt_alias>
+    <ns:cell_type_designation>Neuron 003</ns:cell_type_designation>
+    <ns:cluster>Inh L1-4 LAMP5 DUSP4</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee"/>
+    <rdfs:label>CS1910121003</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b2ca072a-72bc-4892-a5bf-abea57195ae4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>S1lm</ns:region>
+    <rdfs:label>S1lm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cb057532-cd49-4397-b005-5e838c39e9ad">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121073</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5-6 THEMIS OR1J1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 073</ns:cell_type_designation>
+    <ns:cluster>Exc L5-6 THEMIS OR1J1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121073</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/55255b96-cf9a-4c56-9539-0bf586bb5a4d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121112</ns:cell_type_accession>
+    <ns:cell_type_alias>Astro L1 FGFR3 MT1G</ns:cell_type_alias>
+    <ns:cell_type_designation>Non-neuron 002</ns:cell_type_designation>
+    <ns:cluster>Astro L1 FGFR3 MT1G</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/f2fb345c-bb4c-4d14-9a8b-66bc6357d50b"/>
+    <rdfs:label>CS1910121112</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/617c64b1-338c-4c75-bc6e-0f0a727db98f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L4ab</ns:cortical_layer>
+    <obo:RO_0015003 rdf:resource="http://example.org/2244b817-5285-4dbe-9011-7ff19a91fac0"/>
+    <rdfs:label>L4ab</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/146a0bc9-06ee-4251-ad4e-33e7cf881171">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121070</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-5 THEMIS ELOF1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 070</ns:cell_type_designation>
+    <ns:cluster>Exc L3-5 THEMIS ELOF1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121070</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3f62f340-7863-46e7-8cd5-0407f69f7522">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>S1ul</ns:region>
+    <rdfs:label>S1ul</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f9513bd1-63a5-461e-9612-9be6f4414dc5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121016</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1 SST CXCL14</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 016</ns:cell_type_designation>
+    <ns:cluster>Inh L1 SST CXCL14</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121016</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/24321ba2-071b-4c97-9b5a-32bd7773b95e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121012</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-6 VIP RCN1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 012</ns:cell_type_designation>
+    <ns:cluster>Inh L1-6 VIP RCN1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121012</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8f2bb8ae-dbbd-4df4-900b-21b6492a4acc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:Specimen_ID>H200.1030</ns:Specimen_ID>
+    <ns:Tissue_RIN>7.7 ± 0.8</ns:Tissue_RIN>
+    <obo:RO_0015003 rdf:resource="http://example.org/31bcd6a4-5e36-4d6d-a7d8-ed111807846b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/13a97161-f50f-451d-a8b2-1ab5465e4f17">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121050</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-2 PVALB TAC1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 050</ns:cell_type_designation>
+    <ns:cluster>Inh L1-2 PVALB TAC1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/5a0314a8-952e-4d0b-97ae-c435e49d22cd"/>
+    <rdfs:label>CS1910121050</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cd1584a0-e939-4c1d-84ef-64b9bd1670c4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L6 SLC17A7 GAL3ST4</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L6 SLC17A7 GAL3ST4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ed6ea0b9-8106-4aa2-a370-02ebe71f9218">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L1-2 THEMIS IGH</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L1-2 THEMIS IGH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/998a4bfd-7f47-4d4d-bfbd-d0924bd92a63">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:region>A1C</ns:region>
+    <rdfs:label>A1C</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/57ee880b-4a48-4616-9bc7-046ae1635c3f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121071</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3 LINC00507 CTXN3</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 071</ns:cell_type_designation>
+    <ns:cluster>Exc L3 LINC00507 CTXN3</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121071</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/90ce65cb-e43e-4208-a4a0-8e4890d4daa1">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121105</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L5 FEZF2 MORN2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 105</ns:cell_type_designation>
+    <ns:cluster>Exc L5 FEZF2 MORN2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/86ea0fcc-eea7-46d6-9959-f8ba9b779b56"/>
+    <rdfs:label>CS1910121105</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a6bcaea8-2f44-4c6d-8b36-f49e7c806386">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L2-6 GAD1 BOD1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L2-6 GAD1 BOD1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a94e3eb7-6d77-4c7c-bcd8-eadf26f49211">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121066</ns:cell_type_accession>
+    <ns:cell_type_alias>Exc L3-4 RORB FOLH1B</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 066</ns:cell_type_designation>
+    <ns:cluster>Exc L3-4 RORB FOLH1B</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/cc54a5e2-bfe7-4808-b93f-4c6c689f98b6"/>
+    <rdfs:label>CS1910121066</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/97ad3177-374e-433b-a2b8-60e4d4bdca2b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121029</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L2-4 VIP LGI2</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 029</ns:cell_type_designation>
+    <ns:cluster>Inh L2-4 VIP LGI2</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121029</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a58042fa-987e-4c4a-ae17-a06351acd850">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:class>Non-neuronal</ns:class>
+    <obo:RO_0015003 rdf:resource="http://example.org/7befe5df-35db-402d-8983-b17c9a5b1730"/>
+    <rdfs:label>Non-neuronal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0a3e180d-c5da-4497-85e4-5eba4cd47dee">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>lamp5 GABAergic cortical interneuron</ns:cell_type>
+    <ns:subclass>LAMP5</ns:subclass>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a52cdce-8732-4ea4-9701-5576c342bc58"/>
+    <rdfs:label>LAMP5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d1713f18-515e-466f-a592-9740a11cc03b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121011</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-3 PAX6 NABP1</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 011</ns:cell_type_designation>
+    <ns:cluster>Inh L1-3 PAX6 NABP1</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/efef8244-5190-4555-a190-0feedc553998"/>
+    <rdfs:label>CS1910121011</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/60149827-303b-4082-bfd3-4e851a5bab72">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type_accession>CS1910121022</ns:cell_type_accession>
+    <ns:cell_type_alias>Inh L1-2 VIP PPAPDC1A</ns:cell_type_alias>
+    <ns:cell_type_designation>Neuron 022</ns:cell_type_designation>
+    <ns:cluster>Inh L1-2 VIP PPAPDC1A</ns:cluster>
+    <obo:RO_0015003 rdf:resource="http://example.org/1ba3754e-a246-4c4e-9010-aedc1ee5ff9d"/>
+    <rdfs:label>CS1910121022</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/PCL_0010001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>cell cluster</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/31bcd6a4-5e36-4d6d-a7d8-ed111807846b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cause_of_death>cadiovascular disease</ns:cause_of_death>
+    <rdfs:label>cadiovascular disease</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/92b20d1e-130c-4692-b5b6-d28278334ff3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:outlier_type>Outlier L1-6 RORB PTP4A2P1</ns:outlier_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330"/>
+    <rdfs:label>Outlier L1-6 RORB PTP4A2P1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1339cfc4-eeb5-404e-b402-62524a2ca330">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cell_type>native cell</ns:cell_type>
+    <ns:outlier_call rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ns:outlier_call>
+    <rdfs:label>true</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/12b41fdd-b776-4802-bca0-94bb269449fc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <ns:cortical_layer>L5</ns:cortical_layer>
+    <rdfs:label>L5</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
