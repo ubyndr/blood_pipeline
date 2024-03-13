@@ -6,8 +6,8 @@ services:
     container_name: placeholder
     volumes:
       - obask_data:/data
-      - /Users/ugur/github/blood_pipeline/pbmc.owl:/data/pbmc.owl
-    command: sh -c "mkdir data/local_ontologies && cp data/pbmc.owl data/local_ontologies &&
+      - /Users/ub2/github/blood_pipeline/config/collectdata/graph:/data/graph
+    command: sh -c "mkdir -p data/local_ontologies && cp data/graph/*.owl data/local_ontologies &&
       ls -l data/local_ontologies"
     restart: "no"
   triplestore:

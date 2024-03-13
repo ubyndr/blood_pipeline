@@ -1,3 +1,16 @@
 http://purl.obolibrary.org/obo/cl/cl-base.owl
 https://purl.obolibrary.org/obo/go/go-base.owl
-/out/local_ontologies/pbmc.owl
+file:///out/local_ontologies/5346f9c6-755e-4336-94cc-38706ec00c2f.owl
+file:///out/local_ontologies/e4ddac12-f48f-4455-8e8d-c2a48a683437.owl
+file:///out/local_ontologies/a5d5c529-8a1f-40b5-bda3-35208970070d.owl
+file:///out/local_ontologies/f5b0810c-1664-4a62-ad06-be1d9964aa8b.owl
+file:///out/local_ontologies/015c230d-650c-4527-870d-8a805849a382.owl
+file:///out/local_ontologies/9c63201d-bfd9-41a8-bbbc-18d947556f3d.owl
+file:///out/local_ontologies/c3aa4f95-7a18-4a7d-8dd8-ca324d714363.owl
+file:///out/local_ontologies/93cb76aa-a84b-4a92-8e6c-66a914e26d4c.owl
+file:///out/local_ontologies/be401db3-d732-408a-b0c4-71af0458b8ab.owl
+file:///out/local_ontologies/8d1dd010-5cbc-43fb-83f8-e0de8e8517da.owl
+file:///out/local_ontologies/e2808a6e-e2ea-41b9-b38c-4a08f1677f02.owl
+file:///out/local_ontologies/716a4acc-919e-4326-9672-ebe06ede84e6.owl
+file:///out/local_ontologies/5bdc423a-59e6-457d-aa01-debd2c9c564f.owl
+file:///out/local_ontologies/d01c9dff-abd1-4825-bf30-2eb2ba74597e.owl
